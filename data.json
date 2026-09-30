@@ -1,6 +1,6 @@
 {
  "tarih": "2026-09-30",
- "guncellendi": "2026-09-30 21:44",
+ "guncellendi": "2026-09-30 21:56",
  "kanallar": [
   {
    "id": "kanald",
@@ -102,9 +102,70 @@
    "id": "atv",
    "ad": "ATV",
    "kaynak": "https://www.atv.com.tr/yayin-akisi",
-   "ok": false,
-   "hata": "Sayfada yayın akışı bulunamadı",
-   "program": []
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "08:00",
+     "baslik": "Kahvaltı Haberleri",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "10:00",
+     "baslik": "Müge Anlı ile Tatlı Sert",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "13:00",
+     "baslik": "atv Gün Ortası",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "14:00",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 2
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Esra Erol'da",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "19:00",
+     "baslik": "atv Ana Haber",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Aşk ve Taht",
+     "durum": "canli",
+     "bolum": 4
+    },
+    {
+     "saat": "00:20",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 2
+    },
+    {
+     "saat": "03:00",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": null,
+     "bolum": 15
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Gözleri Karadeniz",
+     "durum": null,
+     "bolum": null
+    }
+   ]
   },
   {
    "id": "star",
