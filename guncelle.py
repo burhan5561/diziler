@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 KANALLAR = [
     {"id": "kanald", "ad": "Kanal D",  "url": "https://www.kanald.com.tr/yayin-akisi"},
-    {"id": "show",   "ad": "Show TV",  "url": "https://www.showtv.com.tr/yayin-akisi"},
+    {"id": "show",   "ad": "Show TV",  "url": "https://www.showtv.com.tr/yayin-akisi", "tip": "haftalik_link"},
     {"id": "atv",    "ad": "ATV",      "url": "https://www.atv.com.tr/yayin-akisi"},
     {"id": "star",   "ad": "Star TV",  "url": "https://www.startv.com.tr/yayin-akisi"},
     {"id": "now",    "ad": "NOW",      "url": "https://www.nowtv.com.tr/yayin-akisi"},
@@ -165,6 +165,55 @@ def metinden_cikar(soup):
     return sonuc
 
 
+# ---------- 3. Yol: haftalık, bağlantı kartlı sayfalar (Show TV gibi) ----------
+# Kart yazısı örneği: "Siyah Kalp Tekrar 06:00 Siyah Kalp İzle"
+KART_RE = re.compile(r"(?:(yeni bölüm|tekrar|canlı)[^0-9]{0,15})?(\d{2}):(\d{2})\s+\S", re.I)
+
+
+def gunlere_bol(ogeler, gun_basi=5 * 60):
+    """Arka arkaya dizilmiş haftalık listeyi günlere böler."""
+    gunler, gun, gece, onceki = [], [], False, None
+    for o in ogeler:
+        dakika = o["saat"][0] * 60 + o["saat"][1]
+        yeni_gun = False
+        if onceki is not None:
+            if dakika < onceki:              # saat geriye gitti
+                if dakika >= gun_basi:
+                    yeni_gun = True
+                else:
+                    gece = True               # gece yarısını geçtik
+            elif gece and dakika >= gun_basi:
+                yeni_gun = True
+        if yeni_gun:
+            gunler.append(gun)
+            gun, gece = [], False
+        gun.append(o)
+        onceki = dakika
+    if gun:
+        gunler.append(gun)
+    return gunler
+
+
+def haftalik_link_cikar(soup):
+    ogeler = []
+    for a in soup.find_all("a", title=True):
+        metin = a.get_text(" ", strip=True)
+        m = KART_RE.search(metin)
+        if not m:
+            continue
+        h, dk = int(m.group(2)), int(m.group(3))
+        if not saat_ok(h, dk):
+            continue
+        etiket = (m.group(1) or "").lower()
+        durum = {"yeni bölüm": "yeni", "tekrar": "tekrar", "canlı": "canli"}.get(etiket)
+        ogeler.append({"tarih": None, "saat": (h, dk), "baslik": a["title"].strip(),
+                       "durum": durum, "bolum": None})
+    gunler = gunlere_bol(ogeler)
+    if len(gunler) == 7:                      # hafta Pazartesi'den başlıyor
+        return gunler[BUGUN.weekday()]
+    return gunler[0] if gunler else []
+
+
 def temizle(ogeler):
     gorulen, sonuc = set(), []
     for o in ogeler:
@@ -223,7 +272,10 @@ def main():
             r = requests.get(k["url"], headers=HEADERS, timeout=30)
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
-            ogeler = jsondan_cikar(soup) or metinden_cikar(soup)
+            if k.get("tip") == "haftalik_link":
+                ogeler = haftalik_link_cikar(soup)
+            else:
+                ogeler = jsondan_cikar(soup) or metinden_cikar(soup)
             program = temizle(ogeler)
             tahmin_et(program, gecmis, k["id"])
             kayit["program"] = program
