@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 KANALLAR = [
     {"id": "kanald", "ad": "Kanal D",  "url": "https://www.kanald.com.tr/yayin-akisi"},
     {"id": "show",   "ad": "Show TV",  "url": "https://www.showtv.com.tr/yayin-akisi", "tip": "haftalik_link"},
-    {"id": "atv",    "ad": "ATV",      "url": "https://www.atv.com.tr/yayin-akisi"},
+    {"id": "atv",    "ad": "ATV",      "url": "https://www.atv.com.tr/yayin-akisi", "tip": "kart_h3"},
     {"id": "star",   "ad": "Star TV",  "url": "https://www.startv.com.tr/yayin-akisi"},
     {"id": "now",    "ad": "NOW",      "url": "https://www.nowtv.com.tr/yayin-akisi"},
     {"id": "trt1",   "ad": "TRT 1",    "url": "https://www.trt1.com.tr/yayin-akisi"},
@@ -214,6 +214,79 @@ def haftalik_link_cikar(soup):
     return gunler[0] if gunler else []
 
 
+# ---------- 4. Yol: başlığı h3 içinde olan kartlar (ATV gibi) ----------
+KART_SAAT_RE = re.compile(r"(\d{1,2})\s*[:.]\s*(\d{2})")
+
+
+def kart_h3_cikar(soup):
+    ogeler = []
+    for h3 in soup.find_all("h3"):
+        kart = h3
+        for _ in range(5):
+            if kart.parent is None:
+                break
+            kart = kart.parent
+            if len(kart.find_all("h3")) > 1:
+                kart = None
+                break
+            if KART_SAAT_RE.search(kart.get_text(" ", strip=True)):
+                break
+        if kart is None:
+            continue
+        metin = kart.get_text(" ", strip=True)
+        m = KART_SAAT_RE.search(metin)
+        if not m or not saat_ok(int(m.group(1)), int(m.group(2))):
+            continue
+        baslik = BOLUM_RE.sub("", h3.get_text(" ", strip=True)).strip(" .-")
+        durum, bolum = etiket_bul(metin.replace("FRAGMAN", ""))
+        if durum == "canli" and "canlı izle" in metin.lower():
+            durum = None
+        ogeler.append({"tarih": None, "saat": (int(m.group(1)), int(m.group(2))),
+                       "baslik": baslik, "durum": durum, "bolum": bolum})
+    return ogeler
+
+
+def satir_kart_cikar(soup):
+    """Saatin '08' ':' '00' gibi parçalı yazıldığı sayfalar için yedek yöntem (ATV)."""
+    for t in soup(["script", "style", "noscript", "svg"]):
+        t.decompose()
+    ham = [x.strip() for x in soup.get_text("\n").split("\n") if x.strip()]
+    satirlar, i = [], 0
+    while i < len(ham):                      # parçalı saatleri birleştir
+        birlesik = None
+        for n in (3, 2):
+            parca = "".join(ham[i:i + n]).replace(" ", "")
+            if i + n <= len(ham) and re.fullmatch(r"\d{1,2}[:.]\d{2}", parca):
+                birlesik, i = parca, i + n
+                break
+        if birlesik:
+            satirlar.append(birlesik)
+        else:
+            satirlar.append(ham[i].replace(" ", "") if re.fullmatch(r"\d{1,2}\s*[:.]\s*\d{2}", ham[i]) else ham[i])
+            i += 1
+    atla = {"izle", "i̇zle", "fragman izle", "canlı izle", "canli izle"}
+    ogeler = []
+    for i, x in enumerate(satirlar):
+        m = SAAT_RE.match(x)
+        if not m or not saat_ok(int(m.group(1)), int(m.group(2))):
+            continue
+        j = i + 1
+        while j < len(satirlar) and satirlar[j].lower() in atla:
+            j += 1
+        if j >= len(satirlar) or SAAT_RE.match(satirlar[j]):
+            continue
+        baslik = BOLUM_RE.sub("", satirlar[j]).strip(" .-")
+        bolum = None
+        b = BOLUM_RE.search(satirlar[j]) or (BOLUM_RE.search(satirlar[j + 1]) if j + 1 < len(satirlar) and len(satirlar[j + 1]) < 20 else None)
+        if b:
+            bolum = int(b.group(1))
+        if len(baslik) >= 2:
+            ogeler.append({"tarih": None, "saat": (int(m.group(1)), int(m.group(2))),
+                           "baslik": baslik, "durum": None, "bolum": bolum})
+    gunler = gunlere_bol(ogeler)
+    return max(gunler, key=len) if gunler else []
+
+
 def temizle(ogeler):
     gorulen, sonuc = set(), []
     for o in ogeler:
@@ -244,19 +317,27 @@ def tahmin_et(ogeler, gecmis, kanal_id):
     for o in ogeler:
         sayac[o["baslik"].lower()] = sayac.get(o["baslik"].lower(), 0) + 1
 
+    bugun = BUGUN.isoformat()
     for o in ogeler:
         anahtar = f"{kanal_id}|{o['baslik'].lower()}"
+        kayit = gecmis.get(anahtar)
+        if isinstance(kayit, int):
+            kayit = {"bolum": kayit, "tarih": ""}
+        dakika = int(o["saat"][:2]) * 60 + int(o["saat"][3:])
         if o["bolum"]:
-            eski = gecmis.get(anahtar, 0)
-            if o["durum"] is None and eski and o["bolum"] > eski:
-                o["durum"] = "yeni"
-            if o["durum"] == "yeni" or o["bolum"] > eski:
-                gecmis[anahtar] = max(eski, o["bolum"])
+            if o["durum"] is None and kayit:
+                if o["bolum"] > kayit["bolum"]:
+                    o["durum"] = "yeni"
+                elif o["bolum"] < kayit["bolum"] or kayit["tarih"] != bugun:
+                    o["durum"] = "tekrar"
+            if o["durum"] is None and 19 * 60 + 30 <= dakika <= 21 * 60:
+                o["durum"] = "tahmin"
+            if o["durum"] in ("yeni", "tahmin") and (not kayit or o["bolum"] >= kayit["bolum"]):
+                gecmis[anahtar] = {"bolum": o["bolum"], "tarih": bugun}
         if o["durum"] is None:
             b = o["baslik"].lower()
             if sayac[b] > 1:
                 o["durum"] = "tahmin" if ilk_aksam.get(b) == o["saat"] else "tekrar"
-
 
 def main():
     try:
@@ -274,6 +355,8 @@ def main():
             soup = BeautifulSoup(r.text, "html.parser")
             if k.get("tip") == "haftalik_link":
                 ogeler = haftalik_link_cikar(soup)
+            elif k.get("tip") == "kart_h3":
+                ogeler = kart_h3_cikar(soup) or satir_kart_cikar(BeautifulSoup(r.text, "html.parser"))
             else:
                 ogeler = jsondan_cikar(soup) or metinden_cikar(soup)
             program = temizle(ogeler)
@@ -282,6 +365,13 @@ def main():
             kayit["ok"] = len(program) >= 3
             if not kayit["ok"]:
                 kayit["hata"] = "Sayfada yayın akışı bulunamadı"
+                # teşhis için sayfada görülen yazılardan bir örnek yazdır
+                ornek = BeautifulSoup(r.text, "html.parser")
+                for t in ornek(["script", "style", "noscript", "svg"]):
+                    t.decompose()
+                yazi = " | ".join(x.strip() for x in ornek.get_text("\n").split("\n") if x.strip())
+                bas = max(0, yazi.lower().rfind("yayın akışı") - 50)
+                print(f"   [{k['ad']} sayfa boyutu: {len(r.text)} karakter] {yazi[bas:bas + 700]}")
         except Exception as e:
             kayit["hata"] = f"{type(e).__name__}: {str(e)[:150]}"
         print(f"{k['ad']}: {'OK' if kayit['ok'] else 'HATA'} ({len(kayit['program'])} program) {kayit['hata'] or ''}")
