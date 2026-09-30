@@ -1,0 +1,374 @@
+{
+ "tarih": "2026-09-30",
+ "guncellendi": "2026-09-30 21:32",
+ "kanallar": [
+  {
+   "id": "kanald",
+   "ad": "Kanal D",
+   "kaynak": "https://www.kanald.com.tr/yayin-akisi",
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "20:00",
+     "baslik": "Haysiyet",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Uzak Şehir",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Güller ve Günahlar",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Daha 17",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Beyaz'la Joker",
+     "durum": null,
+     "bolum": null
+    }
+   ]
+  },
+  {
+   "id": "show",
+   "ad": "Show TV",
+   "kaynak": "https://www.showtv.com.tr/yayin-akisi",
+   "ok": false,
+   "hata": "Sayfada yayın akışı bulunamadı",
+   "program": [
+    {
+     "saat": "10:00",
+     "baslik": "Pazar Sürprizi",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "10:00",
+     "baslik": "Gece Hattı",
+     "durum": "canli",
+     "bolum": null
+    }
+   ]
+  },
+  {
+   "id": "atv",
+   "ad": "ATV",
+   "kaynak": "https://www.atv.com.tr/yayin-akisi",
+   "ok": false,
+   "hata": "Sayfada yayın akışı bulunamadı",
+   "program": []
+  },
+  {
+   "id": "star",
+   "ad": "Star TV",
+   "kaynak": "https://www.startv.com.tr/yayin-akisi",
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "07:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "09:30",
+     "baslik": "Güncel",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "13:45",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "15:00",
+     "baslik": "Güncel",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "19:00",
+     "baslik": "Haber",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Yayında",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "22:45",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    }
+   ]
+  },
+  {
+   "id": "now",
+   "ad": "NOW",
+   "kaynak": "https://www.nowtv.com.tr/yayin-akisi",
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "07:15",
+     "baslik": "Zafer Söken ile İlk Bakış",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "08:00",
+     "baslik": "İlker Karagöz ile Çalar Saat",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "10:45",
+     "baslik": "Ömür Usta",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "13:30",
+     "baslik": "En Hamarat Benim",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "16:30",
+     "baslik": "Ömür Usta",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "19:00",
+     "baslik": "Ozan Gündoğdu ile NOW Ana Haber",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Ömür Usta",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "23:00",
+     "baslik": "Anne Yarısı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "02:00",
+     "baslik": "Ömür Usta",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "İnadına Aşk",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:15",
+     "baslik": "Yasak Elma",
+     "durum": null,
+     "bolum": null
+    }
+   ]
+  },
+  {
+   "id": "trt1",
+   "ad": "TRT 1",
+   "kaynak": "https://www.trt1.com.tr/yayin-akisi",
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "06:00",
+     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "07:00",
+     "baslik": "Kalk Gidelim",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "10:30",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "13:15",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:10",
+     "baslik": "Alparslan: Büyük Selçuklu",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "17:30",
+     "baslik": "Lingo Türkiye",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "19:00",
+     "baslik": "Ana Haber",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Evlilik Güzeldir",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:40",
+     "baslik": "Teşkilat",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:40",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:13",
+     "baslik": "İstiklal Marşı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:15",
+     "baslik": "Hayallerinin Peşinde",
+     "durum": "tekrar",
+     "bolum": null
+    }
+   ]
+  },
+  {
+   "id": "tv8",
+   "ad": "TV8",
+   "kaynak": "https://www.tv8.com.tr/yayin-akisi",
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "06:30",
+     "baslik": "Tuzak",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "07:15",
+     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "09:00",
+     "baslik": "Doktor Aksoy / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "11:30",
+     "baslik": "MasterChef Türkiye",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "MasterChef Türkiye / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "02:30",
+     "baslik": "Doktor Aksoy",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "tekrar",
+     "bolum": null
+    }
+   ]
+  }
+ ]
+}
