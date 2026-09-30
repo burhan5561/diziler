@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Diziler">
+<meta name="theme-color" content="#1A2233">
+<title>Bugün TV'de</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📺</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EDF0F5; --kart:#FFFFFF; --yazi:#1A2233; --soluk:#677089; --cizgi:#DDE2EA;
+  --yeni:#0A8F5C; --yeni-zemin:#DDF5EA; --tekrar:#7C859A; --tekrar-zemin:#ECEEF2;
+  --tahmin:#A66C00; --tahmin-zemin:#FFF1D6; --canli:#C8102E; --canli-zemin:#FDE3E6;
+  --ust:#1A2233; --ust-yazi:#FFFFFF;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#12161F; --kart:#1B212D; --yazi:#E8ECF3; --soluk:#9199AB; --cizgi:#2A3140;
+    --yeni:#4CD69A; --yeni-zemin:#14362A; --tekrar:#9199AB; --tekrar-zemin:#252C39;
+    --tahmin:#F2B84B; --tahmin-zemin:#3A2E14; --canli:#FF6B7F; --canli-zemin:#3D1A20;
+    --ust:#0B0E14; }
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 120px)}
+body{margin:0;background:var(--bg);color:var(--yazi);
+  font-family:"Rubik",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  font-size:16px;line-height:1.4;-webkit-font-smoothing:antialiased}
+header{background:var(--ust);color:var(--ust-yazi);padding:22px 18px 18px}
+.gun{font-size:15px;opacity:.7;margin:0}
+h1{font-size:34px;font-weight:700;letter-spacing:-.02em;margin:2px 0 0;line-height:1.1}
+.guncel{font-size:13px;opacity:.6;margin:8px 0 0}
+.uyari{background:var(--tahmin-zemin);color:var(--tahmin);font-size:14px;padding:10px 18px;margin:0}
+nav{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 14px 10px;border-bottom:1px solid var(--cizgi)}
+.sekme{display:flex;background:var(--kart);border-radius:12px;padding:4px;gap:4px}
+.sekme button{flex:1;border:0;background:none;color:var(--soluk);font:inherit;font-size:14px;font-weight:500;
+  padding:9px 4px;border-radius:9px;cursor:pointer}
+.sekme button[aria-pressed="true"]{background:var(--ust);color:#fff}
+.kanal-serit{display:flex;gap:8px;overflow-x:auto;margin-top:10px;scrollbar-width:none}
+.kanal-serit::-webkit-scrollbar{display:none}
+.kanal-serit a{flex:none;text-decoration:none;color:var(--yazi);font-size:13px;font-weight:500;
+  padding:6px 12px;border-radius:99px;background:var(--kart);border-left:4px solid var(--renk)}
+main{max-width:640px;margin:0 auto;padding:14px 12px 40px}
+section{background:var(--kart);border-radius:14px;margin-bottom:14px;overflow:hidden}
+section h2{margin:0;font-size:19px;font-weight:600;padding:14px 16px 10px;display:flex;align-items:center;gap:10px}
+section h2::before{content:"";width:6px;height:22px;border-radius:3px;background:var(--renk)}
+ul{list-style:none;margin:0;padding:0}
+li{display:grid;grid-template-columns:54px 1fr auto;align-items:center;gap:10px;padding:11px 16px;border-top:1px solid var(--cizgi)}
+.saat{font-variant-numeric:tabular-nums;font-weight:600;color:var(--soluk);font-size:15px}
+.baslik{font-weight:500;overflow-wrap:anywhere}
+.kanal-adi{display:block;font-size:12px;font-weight:500;color:var(--renk);margin-bottom:1px}
+.rozet{font-size:12px;font-weight:600;padding:4px 9px;border-radius:99px;white-space:nowrap}
+.r-yeni{background:var(--yeni-zemin);color:var(--yeni)}
+.r-tekrar{background:var(--tekrar-zemin);color:var(--tekrar)}
+.r-tahmin{background:var(--tahmin-zemin);color:var(--tahmin)}
+.r-canli{background:var(--canli-zemin);color:var(--canli)}
+li.yeni .baslik{font-weight:600}
+.bos{padding:14px 16px;color:var(--soluk);font-size:14px;border-top:1px solid var(--cizgi);margin:0}
+.aciklama{font-size:13px;color:var(--soluk);padding:4px 6px 0;margin:0}
+.yukleniyor{text-align:center;color:var(--soluk);padding:40px 0}
+button:focus-visible,a:focus-visible{outline:3px solid #4C8DFF;outline-offset:2px}
+</style>
+</head>
+<body>
+<header>
+  <p class="gun" id="gun">Bugün</p>
+  <h1 id="tarih">Yükleniyor…</h1>
+  <p class="guncel" id="guncel"></p>
+</header>
+<p class="uyari" id="uyari" hidden></p>
+<nav>
+  <div class="sekme" role="group" aria-label="Görünüm">
+    <button data-mod="aksam" aria-pressed="true">Akşam</button>
+    <button data-mod="yeni" aria-pressed="false">Yeni bölümler</button>
+    <button data-mod="tum" aria-pressed="false">Tüm gün</button>
+  </div>
+  <div class="kanal-serit" id="serit"></div>
+</nav>
+<main id="icerik"><p class="yukleniyor">Yayın akışı yükleniyor…</p></main>
+
+<script>
+const RENK = {kanald:"#1F4FD8",show:"#D7263D",atv:"#0096C7",star:"#E0A100",now:"#F26B1D",trt1:"#B5122B",tv8:"#2E9E44"};
+const ROZET = {yeni:["Yeni bölüm","r-yeni"],tekrar:["Tekrar","r-tekrar"],tahmin:["Muhtemelen yeni","r-tahmin"],canli:["Canlı","r-canli"]};
+const AYLAR=["Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"];
+const GUNLER=["Pazar","Pazartesi","Salı","Çarşamba","Perşembe","Cuma","Cumartesi"];
+let veri=null, mod="aksam";
+
+const dk = s => { const [h,m]=s.split(":").map(Number); return (h<6?h+24:h)*60+m; };
+const aksamMi = s => dk(s) >= 18*60;
+const esc = t => String(t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function satir(p, kanal){
+  const r = ROZET[p.durum];
+  const bolum = p.bolum ? ` <span style="color:var(--soluk);font-weight:400">· ${p.bolum}. bölüm</span>` : "";
+  return `<li class="${p.durum||""}" style="--renk:${RENK[kanal?.id]||"#888"}">
+    <span class="saat">${esc(p.saat)}</span>
+    <span class="baslik">${kanal?`<span class="kanal-adi">${esc(kanal.ad)}</span>`:""}${esc(p.baslik)}${bolum}</span>
+    ${r?`<span class="rozet ${r[1]}">${r[0]}</span>`:"<span></span>"}
+  </li>`;
+}
+
+function ciz(){
+  const el=document.getElementById("icerik");
+  const serit=document.getElementById("serit");
+  if(!veri) return;
+  if(mod==="yeni"){
+    serit.hidden=true;
+    const hepsi=[];
+    veri.kanallar.forEach(k=>k.program.forEach(p=>{ if(p.durum==="yeni"||p.durum==="tahmin") hepsi.push([p,k]); }));
+    hepsi.sort((a,b)=>dk(a[0].saat)-dk(b[0].saat));
+    el.innerHTML = hepsi.length
+      ? `<section><ul>${hepsi.map(([p,k])=>satir(p,k)).join("")}</ul></section>
+         <p class="aciklama">"Muhtemelen yeni" kanalın açıkça belirtmediği, akşam kuşağındaki ilk yayınlardır.</p>`
+      : `<section><p class="bos" style="border:0">Bugün için yeni bölüm bilgisi bulunamadı. Akşam sekmesinden tüm programlara bakabilirsin.</p></section>`;
+    return;
+  }
+  serit.hidden=false;
+  el.innerHTML = veri.kanallar.map(k=>{
+    const liste = k.program.filter(p => mod==="tum" || aksamMi(p.saat));
+    let govde;
+    if(!k.ok) govde=`<p class="bos">Bu kanalın yayın akışı şu an alınamadı.</p>`;
+    else if(!liste.length) govde=`<p class="bos">Bu saatlerde program yok.</p>`;
+    else govde=`<ul>${liste.map(p=>satir(p,null)).join("")}</ul>`;
+    return `<section id="k-${k.id}" style="--renk:${RENK[k.id]||"#888"}"><h2>${esc(k.ad)}</h2>${govde}</section>`;
+  }).join("");
+}
+
+document.querySelectorAll(".sekme button").forEach(b=>b.addEventListener("click",()=>{
+  mod=b.dataset.mod;
+  document.querySelectorAll(".sekme button").forEach(x=>x.setAttribute("aria-pressed", x===b));
+  ciz(); window.scrollTo({top:0});
+}));
+
+fetch("data.json?t="+Date.now()).then(r=>{ if(!r.ok) throw 0; return r.json(); }).then(d=>{
+  veri=d;
+  const t=new Date(d.tarih+"T12:00:00");
+  const bugun=new Date(); const bugunStr=bugun.getFullYear()+"-"+String(bugun.getMonth()+1).padStart(2,"0")+"-"+String(bugun.getDate()).padStart(2,"0");
+  document.getElementById("gun").textContent = d.tarih===bugunStr ? "Bugün, "+GUNLER[t.getDay()] : GUNLER[t.getDay()];
+  document.getElementById("tarih").textContent = t.getDate()+" "+AYLAR[t.getMonth()]+" "+t.getFullYear();
+  document.getElementById("guncel").textContent = "Son güncelleme: "+d.guncellendi.slice(11)+" · "+d.guncellendi.slice(8,10)+"."+d.guncellendi.slice(5,7);
+  if(d.tarih!==bugunStr){
+    const u=document.getElementById("uyari"); u.hidden=false;
+    u.textContent="Bugünün listesi henüz gelmedi, gösterilen liste "+t.getDate()+" "+AYLAR[t.getMonth()]+" tarihli. Liste her sabah 07:00'de yenilenir.";
+  }
+  document.getElementById("serit").innerHTML = d.kanallar.map(k=>`<a href="#k-${k.id}" style="--renk:${RENK[k.id]||"#888"}">${esc(k.ad)}</a>`).join("");
+  ciz();
+}).catch(()=>{
+  document.getElementById("tarih").textContent="Liste bulunamadı";
+  document.getElementById("icerik").innerHTML=`<section><p class="bos" style="border:0">Yayın akışı listesi henüz oluşturulmamış. GitHub'da Actions sekmesinden programı bir kez çalıştırman gerekiyor.</p></section>`;
+});
+</script>
+</body>
+</html>
