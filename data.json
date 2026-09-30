@@ -1,6 +1,6 @@
 {
  "tarih": "2026-09-30",
- "guncellendi": "2026-09-30 21:32",
+ "guncellendi": "2026-09-30 21:44",
  "kanallar": [
   {
    "id": "kanald",
@@ -45,19 +45,55 @@
    "id": "show",
    "ad": "Show TV",
    "kaynak": "https://www.showtv.com.tr/yayin-akisi",
-   "ok": false,
-   "hata": "Sayfada yayın akışı bulunamadı",
+   "ok": true,
+   "hata": null,
    "program": [
     {
-     "saat": "10:00",
-     "baslik": "Pazar Sürprizi",
+     "saat": "06:00",
+     "baslik": "Siyah Kalp",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "09:00",
+     "baslik": "Sevdan Bir Ateş",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "12:30",
+     "baslik": "Buse Varol İle Gelin Evi",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:00",
+     "baslik": "Muhtemel Aşk",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "18:25",
+     "baslik": "Show Ana Haber",
      "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "10:00",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
+     "saat": "20:00",
+     "baslik": "Sevdan Bir Ateş",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Kızılcık Şerbeti",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:45",
+     "baslik": "Muhtemel Aşk",
+     "durum": "tekrar",
      "bolum": null
     }
    ]
