@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-01",
- "guncellendi": "2026-10-01 07:18",
+ "guncellendi": "2026-10-01 16:07",
  "kanallar": [
   {
    "id": "kanald",
@@ -138,7 +138,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -200,7 +200,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
