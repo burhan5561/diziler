@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-02",
- "guncellendi": "2026-10-02 07:18",
+ "guncellendi": "2026-10-02 16:06",
  "kanallar": [
   {
    "id": "kanald",
@@ -108,7 +108,7 @@
     {
      "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -132,7 +132,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 3
     },
     {
@@ -150,6 +150,12 @@
     {
      "saat": "20:00",
      "baslik": "Mercan Köşk / Özel",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:35",
+     "baslik": "Mercan Köşk Ön Gösterim",
      "durum": null,
      "bolum": null
     },
@@ -194,7 +200,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -212,7 +218,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -224,30 +230,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "22:45",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
