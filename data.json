@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-01",
- "guncellendi": "2026-10-01 16:07",
+ "tarih": "2026-10-02",
+ "guncellendi": "2026-10-02 07:18",
  "kanallar": [
   {
    "id": "kanald",
@@ -49,14 +49,14 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
+     "saat": "06:00",
      "baslik": "Siyah Kalp",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "09:00",
-     "baslik": "Sevdan Bir Ateş",
+     "baslik": "Muhtemel Aşk",
      "durum": "tekrar",
      "bolum": null
     },
@@ -68,7 +68,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Kızılcık Şerbeti",
+     "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
@@ -80,24 +80,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Muhtemel Aşk",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "01:15",
      "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "02:45",
      "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
@@ -112,8 +106,14 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -131,14 +131,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": null,
-     "bolum": 15
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 3
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,25 +149,37 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tahmin",
-     "bolum": 3
+     "baslik": "Mercan Köşk / Özel",
+     "durum": null,
+     "bolum": null
     },
     {
-     "saat": "23:20",
+     "saat": "20:45",
+     "baslik": "Milli Maça Doğru",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "21:45",
+     "baslik": "Belçika - Türkiye",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 3
     },
     {
-     "saat": "02:20",
-     "baslik": "Mercan Köşk",
+     "saat": "03:00",
+     "baslik": "Altı Üstü İstanbul",
      "durum": null,
-     "bolum": 4
+     "bolum": 15
     },
     {
-     "saat": "05:00",
-     "baslik": "Gözleri KaraDeniz",
+     "saat": "05:30",
+     "baslik": "Gözleri Karadeniz",
      "durum": null,
      "bolum": null
     }
@@ -182,7 +194,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -200,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -212,8 +224,14 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -319,13 +337,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:00",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -368,30 +386,36 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Teşkilat",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:30",
      "baslik": "Evlilik Güzeldir",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:40",
-     "baslik": "Teşkilat",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "02:40",
+     "saat": "02:30",
      "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:13",
+     "saat": "03:10",
+     "baslik": "Alparslan: Büyük Selçuklu",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:15",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -449,8 +473,8 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "MasterChef Türkiye",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -461,6 +485,12 @@
     },
     {
      "saat": "04:30",
+     "baslik": "Gazete Magazin",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:00",
      "baslik": "Oynat Bakalım",
      "durum": "tekrar",
      "bolum": null
