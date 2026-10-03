@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-03",
- "guncellendi": "2026-10-03 07:18",
+ "guncellendi": "2026-10-03 21:06",
  "kanallar": [
   {
    "id": "kanald",
@@ -144,7 +144,7 @@
     {
      "saat": "20:00",
      "baslik": "Mercan Köşk",
-     "durum": "tahmin",
+     "durum": "canli",
      "bolum": 5
     },
     {
@@ -206,7 +206,7 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
