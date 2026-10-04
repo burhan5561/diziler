@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-04",
- "guncellendi": "2026-10-04 08:55",
+ "guncellendi": "2026-10-04 21:20",
  "kanallar": [
   {
    "id": "kanald",
@@ -126,7 +126,7 @@
     {
      "saat": "07:30",
      "baslik": "atv'de Hafta Sonu",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -162,7 +162,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "tahmin",
+     "durum": "canli",
      "bolum": 1250
     },
     {
@@ -194,7 +194,7 @@
    "program": [
     {
      "saat": "08:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -218,7 +218,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -230,13 +230,13 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tahmin",
+     "baslik": "Yayında",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
