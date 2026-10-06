@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-06",
- "guncellendi": "2026-10-06 07:18",
+ "guncellendi": "2026-10-06 16:06",
  "kanallar": [
   {
    "id": "kanald",
@@ -144,7 +144,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -224,7 +224,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -361,8 +361,8 @@
      "bolum": null
     },
     {
-     "saat": "14:10",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "13:45",
+     "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
     },
@@ -397,14 +397,14 @@
      "bolum": null
     },
     {
-     "saat": "02:00",
-     "baslik": "Seksenler",
+     "saat": "01:40",
+     "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:20",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "04:20",
+     "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
     },
@@ -444,17 +444,17 @@
     {
      "saat": "08:30",
      "baslik": "Oynat Bakalım",
-     "durum": "yeni",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "09:00",
-     "baslik": "Doktor Aksoy / Yeni Bölüm",
-     "durum": "yeni",
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "11:30",
+     "saat": "12:00",
      "baslik": "MasterChef Türkiye",
      "durum": "yeni",
      "bolum": null
@@ -474,13 +474,13 @@
     {
      "saat": "00:15",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Doktor Aksoy",
-     "durum": null,
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
      "bolum": null
     },
     {
