@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-05",
- "guncellendi": "2026-10-05 16:08",
+ "tarih": "2026-10-06",
+ "guncellendi": "2026-10-06 07:18",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,26 +80,32 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güldür Güldür Show",
-     "durum": "tekrar",
+     "baslik": "Üç Kağıtçı",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "01:15",
+     "saat": "21:45",
      "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
-     "baslik": "Bahar",
+     "saat": "00:45",
+     "baslik": "Üç Kağıtçı",
      "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:30",
+     "baslik": "Muhtemel Aşk",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:45",
+     "baslik": "Talihli Amele",
+     "durum": null,
      "bolum": null
     }
    ]
@@ -119,7 +125,7 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı İle Tatlı Sert",
+     "baslik": "Müge Anlı ile Tatlı Sert",
      "durum": null,
      "bolum": null
     },
@@ -131,14 +137,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Mercan Köşk",
-     "durum": "tekrar",
-     "bolum": 5
+     "baslik": "Altı Üstü İstanbul",
+     "durum": null,
+     "bolum": 15
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,37 +155,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Altı Üstü İstanbul - Özel",
-     "durum": null,
-     "bolum": null
+     "baslik": "A.B.İ",
+     "durum": "tahmin",
+     "bolum": 23
     },
     {
-     "saat": "20:45",
-     "baslik": "Milli Maça Doğru",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "21:45",
-     "baslik": "İtalya - Türkiye",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 3
-    },
-    {
-     "saat": "03:00",
+     "saat": "00:20",
      "baslik": "Mercan Köşk",
      "durum": "tekrar",
      "bolum": 5
     },
     {
+     "saat": "03:00",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 3
+    },
+    {
      "saat": "05:30",
-     "baslik": "Gözleri Karadeniz",
+     "baslik": "Gözleri KaraDeniz",
      "durum": null,
      "bolum": null
     }
@@ -212,7 +206,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -225,29 +219,23 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "23:15",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:30",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:30",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -311,14 +299,14 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Ömür Usta",
-     "durum": "tahmin",
+     "baslik": "Anne Yarısı",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "23:00",
-     "baslik": "Anne Yarısı",
-     "durum": null,
+     "baslik": "Ömür Usta",
+     "durum": "tahmin",
      "bolum": null
     },
     {
@@ -373,7 +361,7 @@
      "bolum": null
     },
     {
-     "saat": "14:15",
+     "saat": "14:10",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
@@ -398,24 +386,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Karayip Korsanları : Salazar'ın İntikamı | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:15",
-     "baslik": "Sumud",
+     "saat": "22:40",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:00",
-     "baslik": "Gönül Dağı",
-     "durum": null,
+     "saat": "02:00",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:35",
+     "saat": "03:20",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
@@ -441,6 +429,12 @@
    "ok": true,
    "hata": null,
    "program": [
+    {
+     "saat": "06:30",
+     "baslik": "Tuzak",
+     "durum": "yeni",
+     "bolum": null
+    },
     {
      "saat": "07:15",
      "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
@@ -479,7 +473,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
+     "baslik": "Zuhal Topal‘la Yemekteyiz",
      "durum": null,
      "bolum": null
     },
