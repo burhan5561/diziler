@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-06",
- "guncellendi": "2026-10-06 16:06",
+ "tarih": "2026-10-07",
+ "guncellendi": "2026-10-07 07:18",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,31 +80,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Üç Kağıtçı",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "21:45",
      "baslik": "Sevdan Bir Ateş",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:45",
-     "baslik": "Üç Kağıtçı",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
+     "saat": "02:45",
      "baslik": "Muhtemel Aşk",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "04:45",
-     "baslik": "Talihli Amele",
+     "baslik": "Lodos Zühtü",
      "durum": null,
      "bolum": null
     }
@@ -137,14 +131,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": null,
-     "bolum": 15
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -155,25 +149,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "A.B.İ",
+     "baslik": "Aşk ve Taht",
      "durum": "tahmin",
-     "bolum": 23
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Mercan Köşk",
-     "durum": "tekrar",
      "bolum": 5
     },
     {
-     "saat": "03:00",
+     "saat": "00:20",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 3
     },
     {
+     "saat": "03:00",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": null,
+     "bolum": 15
+    },
+    {
      "saat": "05:30",
-     "baslik": "Gözleri KaraDeniz",
+     "baslik": "Gözleri Karadeniz",
      "durum": null,
      "bolum": null
     }
@@ -188,7 +182,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -206,7 +200,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -218,13 +212,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -361,8 +361,8 @@
      "bolum": null
     },
     {
-     "saat": "13:45",
-     "baslik": "Taşacak Bu Deniz",
+     "saat": "14:20",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     },
@@ -386,25 +386,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Karayip Korsanları : Salazar'ın İntikamı | Yabancı Sinema",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "22:40",
-     "baslik": "Mehmed: Fetihler Sultanı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:40",
      "baslik": "Taşacak Bu Deniz",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:20",
+     "saat": "02:50",
      "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:40",
+     "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
     },
@@ -474,13 +474,13 @@
     {
      "saat": "00:15",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
      "bolum": null
     },
     {
