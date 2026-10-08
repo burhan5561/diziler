@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-08",
- "guncellendi": "2026-10-08 07:18",
+ "guncellendi": "2026-10-08 16:10",
  "kanallar": [
   {
    "id": "kanald",
@@ -112,6 +112,12 @@
    "hata": null,
    "program": [
     {
+     "saat": "06:00",
+     "baslik": "Gözleri Karadeniz",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "08:00",
      "baslik": "Kahvaltı Haberleri",
      "durum": null,
@@ -132,7 +138,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -150,7 +156,7 @@
     {
      "saat": "20:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 4
     },
     {
@@ -161,15 +167,15 @@
     },
     {
      "saat": "01:20",
-     "baslik": "Yerli Dizi - Tekrar",
-     "durum": "tekrar",
-     "bolum": null
+     "baslik": "Altı Üstü İstanbul",
+     "durum": null,
+     "bolum": 15
     },
     {
-     "saat": "04:00",
-     "baslik": "Yerli Dizi - Tekrar",
+     "saat": "04:10",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 4
     }
    ]
   },
@@ -182,7 +188,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -200,7 +206,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -218,7 +224,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -343,7 +349,7 @@
      "bolum": null
     },
     {
-     "saat": "11:35",
+     "saat": "11:15",
      "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
@@ -373,31 +379,31 @@
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "23:55",
      "baslik": "Pelin Çift İle Gündem Ötesi",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:30",
+     "saat": "01:10",
      "baslik": "Pelin Çift İle Gündem Ötesi Artı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:45",
+     "saat": "01:25",
      "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:05",
+     "saat": "03:45",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:55",
+     "saat": "04:35",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
