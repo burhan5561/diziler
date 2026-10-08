@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-07",
- "guncellendi": "2026-10-07 16:09",
+ "tarih": "2026-10-08",
+ "guncellendi": "2026-10-08 07:18",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,26 +80,26 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Sevdan Bir Ateş",
+     "baslik": "Muhtemel Aşk",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
+     "baslik": "Gece Hattı",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "01:15",
      "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:45",
-     "baslik": "Muhtemel Aşk",
+     "saat": "03:30",
+     "baslik": "Bahar",
      "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:45",
-     "baslik": "Lodos Zühtü",
-     "durum": null,
      "bolum": null
     }
    ]
@@ -138,7 +138,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,26 +149,26 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Aşk ve Taht",
-     "durum": "tahmin",
-     "bolum": 5
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "yeni",
+     "bolum": 4
     },
     {
      "saat": "00:20",
-     "baslik": "Güneşin Doğduğu Yer",
+     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:20",
+     "baslik": "Yerli Dizi - Tekrar",
      "durum": "tekrar",
-     "bolum": 3
+     "bolum": null
     },
     {
-     "saat": "03:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": null,
-     "bolum": 15
-    },
-    {
-     "saat": "05:30",
-     "baslik": "Gözleri Karadeniz",
-     "durum": null,
+     "saat": "04:00",
+     "baslik": "Yerli Dizi - Tekrar",
+     "durum": "tekrar",
      "bolum": null
     }
    ]
@@ -182,7 +182,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -200,7 +200,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -213,23 +213,23 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "23:15",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:15",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -343,7 +343,7 @@
      "bolum": null
     },
     {
-     "saat": "11:40",
+     "saat": "11:35",
      "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
@@ -467,7 +467,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
      "durum": null,
      "bolum": null
     },
