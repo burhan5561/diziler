@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-09",
- "guncellendi": "2026-10-09 07:19",
+ "guncellendi": "2026-10-09 16:08",
  "kanallar": [
   {
    "id": "kanald",
@@ -11,13 +11,13 @@
    "program": [
     {
      "saat": "20:00",
-     "baslik": "Haysiyet",
+     "baslik": "Uzak Şehir",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "20:00",
-     "baslik": "Uzak Şehir",
+     "baslik": "Haysiyet",
      "durum": null,
      "bolum": null
     },
@@ -120,7 +120,7 @@
     {
      "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -144,7 +144,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 4
     },
     {
@@ -178,7 +178,7 @@
      "bolum": 5
     },
     {
-     "saat": "04:15",
+     "saat": "03:30",
      "baslik": "Altı Üstü İstanbul",
      "durum": null,
      "bolum": 15
@@ -212,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
