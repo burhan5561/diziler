@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-10",
- "guncellendi": "2026-10-10 16:05",
+ "tarih": "2026-10-11",
+ "guncellendi": "2026-10-11 07:17",
  "kanallar": [
   {
    "id": "kanald",
@@ -50,25 +50,25 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Kızılcık Şerbeti",
+     "baslik": "Muhtemel Aşk",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Cumartesi Sürprizi",
+     "baslik": "Pazar Sürprizi",
      "durum": "canli",
      "bolum": null
     },
     {
      "saat": "13:00",
-     "baslik": "Sevdan Bir Ateş",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "16:15",
-     "baslik": "Gizemli Gerçek",
+     "baslik": "Gizli Görev (Hıt Man)",
      "durum": null,
      "bolum": null
     },
@@ -80,26 +80,32 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güldür Güldür Show",
+     "baslik": "Atla Gel Şaban",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "21:45",
+     "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Gizli Görev (Hıt Man)",
-     "durum": null,
+     "saat": "00:45",
+     "baslik": "Muhtemel Aşk",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:15",
-     "baslik": "Kızılcık Şerbeti",
+     "saat": "03:00",
+     "baslik": "Atla Gel Şaban",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "04:30",
-     "baslik": "Sevdan Bir Ateş",
-     "durum": "tekrar",
+     "baslik": "Aşkın Zaferi",
+     "durum": null,
      "bolum": null
     }
    ]
@@ -119,27 +125,27 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Ters Yüz 2 / Yabancı Sinema",
+     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "11:40",
-     "baslik": "Hızlı ve Öfkeli 9",
+     "saat": "11:20",
+     "baslik": "Dizi TV",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "14:20",
-     "baslik": "Mercan Köşk",
-     "durum": "tekrar",
-     "bolum": 5
-    },
-    {
-     "saat": "16:00",
+     "saat": "12:10",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 4
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 15
     },
     {
      "saat": "19:00",
@@ -149,25 +155,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Mercan Köşk",
-     "durum": "tahmin",
-     "bolum": 6
+     "baslik": "Kim Milyoner Olmak İster?",
+     "durum": null,
+     "bolum": null
     },
     {
      "saat": "00:20",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 15
+    },
+    {
+     "saat": "03:00",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 4
     },
     {
-     "saat": "03:00",
-     "baslik": "Mercan Köşk",
-     "durum": "tekrar",
-     "bolum": 6
-    },
-    {
      "saat": "05:30",
-     "baslik": "Gözleri KaraDeniz",
+     "baslik": "Gözleri Karadeniz",
      "durum": null,
      "bolum": null
     }
@@ -181,21 +187,21 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:45",
+     "saat": "08:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "11:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "baslik": "Kadın",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "13:30",
-     "baslik": "Magazin",
-     "durum": null,
+     "saat": "12:00",
+     "baslik": "Yaşam",
+     "durum": "yeni",
      "bolum": null
     },
     {
@@ -206,7 +212,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -218,12 +224,36 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Yerli Film",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "21:45",
      "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "01:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "03:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "Müzik",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -412,12 +442,6 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:30",
-     "baslik": "Tuzak",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "08:00",
      "baslik": "Oynat Bakalım",
      "durum": "yeni",
@@ -451,36 +475,6 @@
      "saat": "20:00",
      "baslik": "MasterChef Türkiye / Yeni Bölüm",
      "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "%100 Futbol / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
-     "baslik": "Caner Taslaman İle Aklımdaki Sorular / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
-     "baslik": "Gazete Magazin",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "04:00",
-     "baslik": "Gençlik Rüzgarı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:00",
-     "baslik": "Dizi",
-     "durum": null,
      "bolum": null
     }
    ]
