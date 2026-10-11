@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-11",
- "guncellendi": "2026-10-11 07:17",
+ "guncellendi": "2026-10-11 16:06",
  "kanallar": [
   {
    "id": "kanald",
@@ -144,7 +144,7 @@
     {
      "saat": "15:30",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 15
     },
     {
@@ -212,7 +212,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
