@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-12",
- "guncellendi": "2026-10-12 16:25",
+ "tarih": "2026-10-13",
+ "guncellendi": "2026-10-13 07:20",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,26 +80,32 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güldür Güldür Show",
-     "durum": "tekrar",
+     "baslik": "Sakar Şakir",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "01:15",
+     "saat": "21:45",
      "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:45",
-     "baslik": "Bahar",
+     "saat": "01:30",
+     "baslik": "Sakar Şakir",
      "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:45",
+     "baslik": "Muhtemel Aşk",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:45",
+     "baslik": "Futboliye",
+     "durum": null,
      "bolum": null
     }
    ]
@@ -119,7 +125,7 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı İle Tatlı Sert",
+     "baslik": "Müge Anlı ile Tatlı Sert",
      "durum": null,
      "bolum": null
     },
@@ -133,12 +139,12 @@
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
-     "bolum": 15
+     "bolum": 16
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,18 +155,18 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:40",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tahmin",
+     "durum": "tekrar",
      "bolum": 16
     },
     {
-     "saat": "00:20",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 4
-    },
-    {
-     "saat": "03:00",
+     "saat": "02:40",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
@@ -182,7 +188,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -212,7 +218,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -224,30 +230,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Film",
-     "durum": null,
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:15",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "01:15",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:45",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -448,6 +448,12 @@
    "hata": null,
    "program": [
     {
+     "saat": "06:30",
+     "baslik": "Tuzak",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
      "saat": "07:15",
      "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
      "durum": "yeni",
@@ -466,7 +472,7 @@
      "bolum": null
     },
     {
-     "saat": "11:30",
+     "saat": "12:00",
      "baslik": "MasterChef Türkiye",
      "durum": "yeni",
      "bolum": null
@@ -485,14 +491,14 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
      "bolum": null
     },
     {
