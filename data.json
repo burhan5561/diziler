@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-13",
- "guncellendi": "2026-10-13 16:14",
+ "tarih": "2026-10-14",
+ "guncellendi": "2026-10-14 07:30",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,19 +80,13 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Sakar Şakir",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "21:45",
      "baslik": "Sevdan Bir Ateş",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "01:30",
-     "baslik": "Sakar Şakir",
+     "saat": "00:15",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
     },
@@ -104,7 +98,7 @@
     },
     {
      "saat": "04:45",
-     "baslik": "Futboliye",
+     "baslik": "Talihli Amele",
      "durum": null,
      "bolum": null
     }
@@ -137,14 +131,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 16
+     "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -161,9 +155,9 @@
     },
     {
      "saat": "23:40",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 16
+     "bolum": 4
     },
     {
      "saat": "02:40",
@@ -200,25 +194,19 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "11:30",
      "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "14:45",
-     "baslik": "Güncel",
+     "saat": "13:45",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -230,13 +218,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -349,13 +343,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:10",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:10",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -373,7 +367,7 @@
      "bolum": null
     },
     {
-     "saat": "14:10",
+     "saat": "14:15",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
@@ -385,55 +379,49 @@
      "bolum": null
     },
     {
-     "saat": "18:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "19:00",
      "baslik": "Ana Haber",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "19:45",
-     "baslik": "Kups Kuopio - Trabzonspor | UEFA Konferans Ligi Grup Maçları",
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "22:00",
-     "baslik": "Hoffenheim - Beşiktaş | UEFA Avrupa Ligi Grup Maçları",
+     "saat": "20:00",
+     "baslik": "Taşacak Bu Deniz",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
      "baslik": "Teşkilat",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "02:50",
+     "saat": "02:25",
      "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:15",
+     "saat": "03:30",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:23",
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:25",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -492,13 +480,13 @@
     {
      "saat": "00:15",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
      "bolum": null
     },
     {
