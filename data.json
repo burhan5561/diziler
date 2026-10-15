@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-14",
- "guncellendi": "2026-10-14 16:25",
+ "tarih": "2026-10-15",
+ "guncellendi": "2026-10-15 07:28",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,26 +80,26 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Sevdan Bir Ateş",
+     "baslik": "Muhtemel Aşk",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Kızılcık Şerbeti",
+     "baslik": "Gece Hattı",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "01:15",
+     "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:45",
-     "baslik": "Muhtemel Aşk",
+     "saat": "03:30",
+     "baslik": "Bahar",
      "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:45",
-     "baslik": "Talihli Amele",
-     "durum": null,
      "bolum": null
     }
    ]
@@ -111,6 +111,12 @@
    "ok": true,
    "hata": null,
    "program": [
+    {
+     "saat": "06:00",
+     "baslik": "Hercai",
+     "durum": "canli",
+     "bolum": null
+    },
     {
      "saat": "08:00",
      "baslik": "Kahvaltı Haberleri",
@@ -138,7 +144,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,25 +155,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "23:40",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 4
+     "durum": "yeni",
+     "bolum": 5
     },
     {
-     "saat": "02:40",
-     "baslik": "A.B.İ",
+     "saat": "00:20",
+     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:30",
-     "baslik": "Hercai",
+     "saat": "01:20",
+     "baslik": "Mercan Köşk",
+     "durum": "tekrar",
+     "bolum": 6
+    },
+    {
+     "saat": "04:00",
+     "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
     }
@@ -182,7 +188,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -206,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -219,23 +225,17 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "22:45",
-     "baslik": "Yerli Film",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "00:45",
-     "baslik": "Yerli Film",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:30",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -367,7 +367,7 @@
      "bolum": null
     },
     {
-     "saat": "14:15",
+     "saat": "14:20",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
@@ -379,38 +379,38 @@
      "bolum": null
     },
     {
+     "saat": "18:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "19:00",
      "baslik": "Ana Haber",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "19:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
+     "saat": "20:00",
+     "baslik": "Mehmed: Fetihler Sultanı",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "20:00",
-     "baslik": "Taşacak Bu Deniz",
+     "saat": "22:00",
+     "baslik": "Galatasaray - Barcelona | UEFA Şampiyonlar Ligi Grup Maçları",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Teşkilat",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "02:25",
-     "baslik": "Seksenler",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "02:15",
+     "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
     },
@@ -479,7 +479,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
      "durum": null,
      "bolum": null
     },
