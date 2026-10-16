@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-16",
- "guncellendi": "2026-10-16 07:28",
+ "guncellendi": "2026-10-16 16:28",
  "kanallar": [
   {
    "id": "kanald",
@@ -112,15 +112,9 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
-     "baslik": "Hercai",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -150,7 +144,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -161,24 +155,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Küçük Deniz Kızı / TV'DE İLK / Yabancı Sinema",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "22:40",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 5
     },
     {
-     "saat": "01:40",
+     "saat": "23:25",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 16
     },
     {
-     "saat": "04:00",
+     "saat": "02:15",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
@@ -218,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
