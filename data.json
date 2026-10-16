@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-15",
- "guncellendi": "2026-10-15 16:30",
+ "tarih": "2026-10-16",
+ "guncellendi": "2026-10-16 07:28",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,24 +80,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Muhtemel Aşk",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
+     "baslik": "Kirli Para",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:15",
-     "baslik": "Sevdan Bir Ateş",
+     "saat": "02:00",
+     "baslik": "Muhtemel Aşk",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "04:30",
      "baslik": "Bahar",
      "durum": "tekrar",
      "bolum": null
@@ -118,8 +118,14 @@
      "bolum": null
     },
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -137,14 +143,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Güneşin Doğduğu Yer",
+     "baslik": "Mercan Köşk",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 6
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -155,21 +161,21 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tahmin",
-     "bolum": 5
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "baslik": "Küçük Deniz Kızı / TV'DE İLK / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:20",
-     "baslik": "Mercan Köşk",
+     "saat": "22:40",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 6
+     "bolum": 5
+    },
+    {
+     "saat": "01:40",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 16
     },
     {
      "saat": "04:00",
@@ -212,7 +218,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -224,12 +230,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "22:30",
+     "baslik": "Yabancı Film",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
      "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
@@ -479,8 +491,8 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "MasterChef Türkiye",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -491,6 +503,12 @@
     },
     {
      "saat": "04:30",
+     "baslik": "Gazete Magazin",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:00",
      "baslik": "Oynat Bakalım",
      "durum": "tekrar",
      "bolum": null
