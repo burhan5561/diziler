@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-17",
- "guncellendi": "2026-10-17 07:25",
+ "guncellendi": "2026-10-17 16:18",
  "kanallar": [
   {
    "id": "kanald",
@@ -132,7 +132,7 @@
     {
      "saat": "15:50",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 16
     },
     {
@@ -144,7 +144,7 @@
     {
      "saat": "20:00",
      "baslik": "Mercan Köşk",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 7
     },
     {
@@ -176,7 +176,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -200,7 +200,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
