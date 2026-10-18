@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-18",
- "guncellendi": "2026-10-18 07:26",
+ "guncellendi": "2026-10-18 16:19",
  "kanallar": [
   {
    "id": "kanald",
@@ -120,7 +120,7 @@
     {
      "saat": "06:10",
      "baslik": "Hercai",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -150,7 +150,7 @@
     {
      "saat": "15:30",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 5
     },
     {
@@ -162,7 +162,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 1252
     },
     {
@@ -218,7 +218,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -242,7 +242,7 @@
     },
     {
      "saat": "23:45",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
