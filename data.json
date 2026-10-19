@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-19",
- "guncellendi": "2026-10-19 07:31",
+ "guncellendi": "2026-10-19 16:32",
  "kanallar": [
   {
    "id": "kanald",
@@ -85,19 +85,19 @@
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "23:45",
      "baslik": "Gece Hattı",
      "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "01:15",
+     "saat": "00:30",
      "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "03:15",
      "baslik": "Bahar",
      "durum": "tekrar",
      "bolum": null
@@ -138,7 +138,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -150,17 +150,17 @@
     {
      "saat": "20:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 17
     },
     {
      "saat": "00:20",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 5
+     "baslik": "Var Mısın Yok Musun",
+     "durum": null,
+     "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "02:45",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
@@ -182,7 +182,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -212,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -224,30 +224,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "23:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:15",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:15",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -349,13 +349,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:10",
+     "saat": "06:15",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:10",
+     "saat": "07:15",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -410,12 +410,12 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:30",
+     "saat": "02:35",
      "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
@@ -427,13 +427,13 @@
      "bolum": null
     },
     {
-     "saat": "05:23",
+     "saat": "05:28",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:25",
+     "saat": "05:30",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -444,9 +444,64 @@
    "id": "tv8",
    "ad": "TV8",
    "kaynak": "https://www.tv8.com.tr/yayin-akisi",
-   "ok": false,
-   "hata": "Sayfada yayın akışı bulunamadı",
-   "program": []
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "07:15",
+     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "09:00",
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "11:30",
+     "baslik": "MasterChef Türkiye",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "MasterChef Türkiye / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "02:30",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "tekrar",
+     "bolum": null
+    }
+   ]
   }
  ]
 }
