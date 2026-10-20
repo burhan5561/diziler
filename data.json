@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-20",
- "guncellendi": "2026-10-20 07:28",
+ "guncellendi": "2026-10-20 16:30",
  "kanallar": [
   {
    "id": "kanald",
@@ -138,7 +138,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -212,7 +212,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -230,7 +230,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -241,7 +241,7 @@
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
