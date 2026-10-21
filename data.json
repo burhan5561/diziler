@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-20",
- "guncellendi": "2026-10-20 16:30",
+ "tarih": "2026-10-21",
+ "guncellendi": "2026-10-21 07:30",
  "kanallar": [
   {
    "id": "kanald",
@@ -81,23 +81,17 @@
     {
      "saat": "20:00",
      "baslik": "Sevdan Bir Ateş",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "23:30",
-     "baslik": "Ajan Recon",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:15",
+     "saat": "00:15",
      "baslik": "Kızılcık Şerbeti",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "02:45",
      "baslik": "Muhtemel Aşk",
      "durum": "tekrar",
      "bolum": null
@@ -131,14 +125,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 17
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": null,
+     "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -155,9 +149,9 @@
     },
     {
      "saat": "23:40",
-     "baslik": "Güneşin Doğduğu Yer",
+     "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
-     "bolum": 5
+     "bolum": 17
     },
     {
      "saat": "02:40",
@@ -182,7 +176,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -212,7 +206,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -224,13 +218,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -241,7 +241,7 @@
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -343,13 +343,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:15",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:15",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -379,37 +379,31 @@
      "bolum": null
     },
     {
-     "saat": "18:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "19:00",
      "baslik": "Ana Haber",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "19:45",
-     "baslik": "Trabzonspor - Hearts | UEFA Avrupa Konferans Ligi Grup Maçları",
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "22:00",
-     "baslik": "Beşiktaş - Cyrstal Palace | UEFA Avrupa Ligi Grup Maçları",
+     "saat": "20:00",
+     "baslik": "Taşacak Bu Deniz",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Teşkilat",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:35",
+     "saat": "02:15",
      "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
@@ -421,13 +415,13 @@
      "bolum": null
     },
     {
-     "saat": "05:28",
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -486,13 +480,13 @@
     {
      "saat": "00:15",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
      "bolum": null
     },
     {
