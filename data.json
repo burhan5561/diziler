@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-21",
- "guncellendi": "2026-10-21 07:30",
+ "guncellendi": "2026-10-21 16:29",
  "kanallar": [
   {
    "id": "kanald",
@@ -132,7 +132,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -144,7 +144,7 @@
     {
      "saat": "20:00",
      "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "durum": "tahmin",
      "bolum": null
     },
     {
@@ -155,13 +155,13 @@
     },
     {
      "saat": "02:40",
-     "baslik": "A.B.İ",
-     "durum": null,
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
-     "baslik": "Hercai",
+     "saat": "05:00",
+     "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
     }
@@ -176,7 +176,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -206,7 +206,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -218,24 +218,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
      "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "saat": "00:45",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "03:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
