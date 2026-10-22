@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-21",
- "guncellendi": "2026-10-21 16:29",
+ "tarih": "2026-10-22",
+ "guncellendi": "2026-10-22 07:30",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,19 +80,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Sevdan Bir Ateş",
+     "baslik": "Muhtemel Aşk",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Kızılcık Şerbeti",
+     "baslik": "Gece Hattı",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "01:15",
+     "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:45",
-     "baslik": "Muhtemel Aşk",
+     "saat": "03:45",
+     "baslik": "Bahar",
      "durum": "tekrar",
      "bolum": null
     }
@@ -126,13 +132,13 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": null,
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -143,25 +149,31 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": "tahmin",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "yeni",
+     "bolum": 6
+    },
+    {
+     "saat": "00:20",
+     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:40",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 17
-    },
-    {
-     "saat": "02:40",
+     "saat": "01:20",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "03:30",
      "baslik": "A.B.İ",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -176,7 +188,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -206,7 +218,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -218,24 +230,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:30",
-     "baslik": "Yabancı Film",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:45",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -379,38 +385,38 @@
      "bolum": null
     },
     {
+     "saat": "18:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "19:00",
      "baslik": "Ana Haber",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "19:55",
-     "baslik": "İddiaların Aksine",
+     "saat": "19:45",
+     "baslik": "Fenerbahçe - Slavia Prag | UEFA Şampiyonlar Ligi Grup Maçları",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "20:00",
-     "baslik": "Taşacak Bu Deniz",
+     "saat": "21:30",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Mehmed: Fetihler Sultanı",
+     "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "02:15",
      "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:20",
-     "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
@@ -479,7 +485,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
      "durum": null,
      "bolum": null
     },
