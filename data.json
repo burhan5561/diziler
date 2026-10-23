@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-22",
- "guncellendi": "2026-10-22 16:32",
+ "tarih": "2026-10-23",
+ "guncellendi": "2026-10-23 07:29",
  "kanallar": [
   {
    "id": "kanald",
@@ -80,24 +80,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Muhtemel Aşk",
+     "baslik": "Kızılcık Şerbeti",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Gece Hattı",
-     "durum": "canli",
+     "baslik": "Tehlikeli İhtiyar",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:15",
+     "saat": "01:45",
      "baslik": "Sevdan Bir Ateş",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:45",
+     "saat": "04:15",
      "baslik": "Bahar",
      "durum": "tekrar",
      "bolum": null
@@ -112,8 +112,20 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "06:00",
+     "baslik": "Hercai",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -133,12 +145,12 @@
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 6
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -149,31 +161,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tahmin",
-     "bolum": 6
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "baslik": "Küçük Deniz Kızı / TV'de ilk / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:20",
+     "saat": "22:40",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 6
+    },
+    {
+     "saat": "01:40",
      "baslik": "Var Mısın Yok Musun",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "04:00",
      "baslik": "A.B.İ",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
-     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -188,7 +194,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -218,7 +224,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -231,12 +237,18 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "23:00",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -485,8 +497,8 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "MasterChef Türkiye",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -497,6 +509,12 @@
     },
     {
      "saat": "04:30",
+     "baslik": "Gazete Magazin",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:00",
      "baslik": "Oynat Bakalım",
      "durum": "tekrar",
      "bolum": null
