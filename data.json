@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-25",
- "guncellendi": "2026-10-25 07:28",
+ "guncellendi": "2026-10-25 16:22",
  "kanallar": [
   {
    "id": "kanald",
@@ -89,7 +89,7 @@
     {
      "saat": "15:50",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 17
     },
     {
@@ -101,7 +101,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 1253
     },
     {
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -187,7 +187,7 @@
     },
     {
      "saat": "02:00",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
