@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-24",
- "guncellendi": "2026-10-24 16:22",
+ "tarih": "2026-10-25",
+ "guncellendi": "2026-10-25 07:28",
  "kanallar": [
   {
    "id": "kanald",
@@ -64,21 +64,33 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Küçük Deniz Kızı / Yabancı Sinema",
+     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "12:40",
+     "saat": "11:20",
+     "baslik": "Dizi TV",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "12:10",
      "baslik": "Var Mısın Yok Musun",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "15:10",
+     "saat": "13:20",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 6
+    },
+    {
+     "saat": "15:50",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 17
     },
     {
      "saat": "19:00",
@@ -88,30 +100,24 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Kim Milyoner Olmak İster?",
+     "durum": "yeni",
+     "bolum": 1253
+    },
+    {
+     "saat": "23:20",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 17
     },
     {
-     "saat": "23:20",
-     "baslik": "Koruyucu / Yabancı Sinema",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "00:50",
-     "baslik": "Koruyucu / Yabancı Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
+     "saat": "02:40",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "05:30",
      "baslik": "Hercai",
      "durum": null,
      "bolum": null
@@ -133,8 +139,14 @@
     },
     {
      "saat": "11:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "baslik": "Kadın",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "12:00",
+     "baslik": "Yaşam",
+     "durum": "yeni",
      "bolum": null
     },
     {
@@ -145,7 +157,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -157,24 +169,42 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "22:00",
+     "baslik": "Yabancı Film",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "23:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "02:00",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "04:30",
+     "baslik": "Müzik",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -369,12 +399,6 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:30",
-     "baslik": "Tuzak",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "08:00",
      "baslik": "Oynat Bakalım",
      "durum": "yeni",
@@ -408,36 +432,6 @@
      "saat": "20:00",
      "baslik": "MasterChef Türkiye / Yeni Bölüm",
      "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "%100 Futbol / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
-     "baslik": "Caner Taslaman İle Aklımdaki Sorular / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
-     "baslik": "Gazete Magazin",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "04:00",
-     "baslik": "Gençlik Rüzgarı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:00",
-     "baslik": "Dizi",
-     "durum": null,
      "bolum": null
     }
    ]
