@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-26",
- "guncellendi": "2026-10-26 07:32",
+ "guncellendi": "2026-10-26 18:06",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -95,7 +95,7 @@
     {
      "saat": "20:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "yeni",
+     "durum": "tahmin",
      "bolum": 18
     },
     {
@@ -127,7 +127,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -174,19 +174,19 @@
      "bolum": null
     },
     {
-     "saat": "22:15",
+     "saat": "22:30",
      "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "saat": "01:00",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "03:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -243,7 +243,7 @@
      "bolum": null
     },
     {
-     "saat": "17:30",
+     "saat": "17:45",
      "baslik": "Ali İhsan Varol ile Kumbara",
      "durum": "yeni",
      "bolum": null
@@ -288,13 +288,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:10",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:10",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -356,7 +356,7 @@
     {
      "saat": "20:00",
      "baslik": "Evlilik Güzeldir",
-     "durum": null,
+     "durum": "tahmin",
      "bolum": null
     },
     {
@@ -366,31 +366,37 @@
      "bolum": null
     },
     {
-     "saat": "00:30",
+     "saat": "00:25",
      "baslik": "Pelin Çift İle Gündem Ötesi Artı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:45",
+     "saat": "00:40",
      "baslik": "Mehmed: Fetihler Sultanı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "03:20",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "03:00",
+     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:23",
+     "saat": "03:20",
+     "baslik": "Evlilik Güzeldir",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:25",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -401,9 +407,64 @@
    "id": "tv8",
    "ad": "TV8",
    "kaynak": "https://www.tv8.com.tr/yayin-akisi",
-   "ok": false,
-   "hata": "Sayfada yayın akışı bulunamadı",
-   "program": []
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "07:15",
+     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "09:00",
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "11:30",
+     "baslik": "MasterChef Türkiye",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "MasterChef Türkiye / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "02:30",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "Oynat Bakalım",
+     "durum": "tekrar",
+     "bolum": null
+    }
+   ]
   }
  ]
 }
