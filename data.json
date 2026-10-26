@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-25",
- "guncellendi": "2026-10-25 16:22",
+ "tarih": "2026-10-26",
+ "guncellendi": "2026-10-26 07:32",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,40 +57,34 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:30",
-     "baslik": "atv'de Hafta Sonu",
+     "saat": "08:00",
+     "baslik": "Kahvaltı Haberleri",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
+     "baslik": "Müge Anlı İle Tatlı Sert",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "11:20",
-     "baslik": "Dizi TV",
+     "saat": "13:00",
+     "baslik": "atv Gün Ortası",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "12:10",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "13:20",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 6
-    },
-    {
-     "saat": "15:50",
+     "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 17
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Esra Erol'da",
+     "durum": null,
+     "bolum": null
     },
     {
      "saat": "19:00",
@@ -100,18 +94,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "tahmin",
-     "bolum": 1253
-    },
-    {
-     "saat": "23:20",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 17
+     "durum": "yeni",
+     "bolum": 18
     },
     {
-     "saat": "02:40",
+     "saat": "00:20",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 6
+    },
+    {
+     "saat": "03:00",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
@@ -132,33 +126,39 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "07:00",
+     "baslik": "Yayında",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Güncel",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "10:00",
+     "baslik": "Güncel",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "13:30",
+     "baslik": "Güncel",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "13:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:00",
-     "baslik": "Kadın",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "12:00",
-     "baslik": "Yaşam",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "14:00",
-     "baslik": "Yaşam",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "15:30",
-     "baslik": "Yayında",
-     "durum": "tekrar",
+     "saat": "15:00",
+     "baslik": "Güncel",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -174,37 +174,25 @@
      "bolum": null
     },
     {
-     "saat": "22:00",
+     "saat": "22:15",
      "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "23:30",
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:30",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:30",
-     "baslik": "Müzik",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -244,8 +232,8 @@
     },
     {
      "saat": "13:30",
-     "baslik": "En Hamarat Benim",
-     "durum": "yeni",
+     "baslik": "Ömür Usta",
+     "durum": null,
      "bolum": null
     },
     {
@@ -273,25 +261,19 @@
      "bolum": null
     },
     {
-     "saat": "22:30",
-     "baslik": "Sevdam Karadeniz",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:45",
+     "saat": "00:00",
      "baslik": "Anne Yarısı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:15",
-     "baslik": "Şevkat Yerimdar",
-     "durum": null,
+     "saat": "03:00",
+     "baslik": "Sevdam Karadeniz",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "05:30",
      "baslik": "Yasak Elma",
      "durum": null,
      "bolum": null
@@ -306,13 +288,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:30",
+     "saat": "06:10",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:30",
+     "saat": "07:10",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -320,30 +302,42 @@
     {
      "saat": "10:30",
      "baslik": "Alişan İle Hayata Gülümse",
-     "durum": null,
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "11:00",
+     "baslik": "Anıtkabir'den Naklen Yayın",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "11:15",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "13:15",
-     "baslik": "Seksenler",
+     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "14:15",
-     "baslik": "Alparslan: Büyük Selçuklu",
-     "durum": "tekrar",
+     "saat": "14:00",
+     "baslik": "29 Ekim Cumhuriyet Bayramı Özel",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Mannu Çanakkale'de | Türk Sineması",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "17:30",
      "baslik": "Lingo Türkiye",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "18:55",
-     "baslik": "İddiaların Aksine",
      "durum": null,
      "bolum": null
     },
@@ -354,37 +348,49 @@
      "bolum": null
     },
     {
-     "saat": "19:45",
-     "baslik": "Fenerbahçe - Slavia Prag | UEFA Şampiyonlar Ligi Grup Maçları",
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "21:30",
+     "saat": "20:00",
+     "baslik": "Evlilik Güzeldir",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:15",
+     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "00:45",
      "baslik": "Mehmed: Fetihler Sultanı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Teşkilat",
+     "saat": "03:20",
+     "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:15",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:43",
+     "saat": "05:23",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:45",
+     "saat": "05:25",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -395,46 +401,9 @@
    "id": "tv8",
    "ad": "TV8",
    "kaynak": "https://www.tv8.com.tr/yayin-akisi",
-   "ok": true,
-   "hata": null,
-   "program": [
-    {
-     "saat": "08:00",
-     "baslik": "Oynat Bakalım",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Gençlik Rüzgarı / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "10:00",
-     "baslik": "Gazete Magazin / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "15:30",
-     "baslik": "Gupi / Çizgi Film",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "16:30",
-     "baslik": "MasterChef Türkiye",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "20:00",
-     "baslik": "MasterChef Türkiye / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    }
-   ]
+   "ok": false,
+   "hata": "Sayfada yayın akışı bulunamadı",
+   "program": []
   }
  ]
 }
