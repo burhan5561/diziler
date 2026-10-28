@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-27",
- "guncellendi": "2026-10-27 16:38",
+ "tarih": "2026-10-28",
+ "guncellendi": "2026-10-28 07:41",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,13 +77,13 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": null,
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -100,9 +100,9 @@
     },
     {
      "saat": "23:40",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 18
+     "bolum": 6
     },
     {
      "saat": "02:40",
@@ -127,7 +127,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,13 +169,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -296,37 +302,19 @@
     {
      "saat": "10:30",
      "baslik": "Alişan İle Hayata Gülümse",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "11:00",
-     "baslik": "Anıtkabir'den Naklen Yayın",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "11:15",
-     "baslik": "Alişan İle Hayata Gülümse",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "13:30",
-     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "14:00",
-     "baslik": "29 Ekim Cumhuriyet Bayramı Özel",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "16:00",
-     "baslik": "Mannu Çanakkale'de | Türk Sineması",
-     "durum": null,
+     "saat": "13:15",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:25",
+     "baslik": "Alparslan: Büyük Selçuklu",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -349,37 +337,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Evlilik Güzeldir",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "23:15",
-     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "baslik": "Taşacak Bu Deniz",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:25",
-     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "00:40",
-     "baslik": "Mehmed: Fetihler Sultanı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "03:05",
-     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
+     "saat": "00:15",
+     "baslik": "Gönül Dağı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:25",
-     "baslik": "Evlilik Güzeldir",
+     "saat": "03:00",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:20",
+     "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
@@ -449,13 +425,13 @@
     {
      "saat": "00:15",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
      "bolum": null
     },
     {
