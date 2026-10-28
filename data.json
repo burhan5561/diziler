@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-28",
- "guncellendi": "2026-10-28 07:41",
+ "guncellendi": "2026-10-28 16:43",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -127,7 +127,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -169,19 +169,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "saat": "01:00",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -288,39 +288,33 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:30",
+     "saat": "08:30",
+     "baslik": "Kod Adı Kırlangıç",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "10:00",
+     "baslik": "Hayallerinin Peşinde",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "11:20",
+     "baslik": "Taşacak Bu Deniz",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:40",
+     "baslik": "Evlilik Güzeldir",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "17:50",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "07:30",
-     "baslik": "Kalk Gidelim",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "10:30",
-     "baslik": "Alişan İle Hayata Gülümse",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "13:15",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "14:25",
-     "baslik": "Alparslan: Büyük Selçuklu",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "17:30",
-     "baslik": "Lingo Türkiye",
-     "durum": null,
      "bolum": null
     },
     {
@@ -330,44 +324,50 @@
      "bolum": null
     },
     {
-     "saat": "19:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "20:00",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Gönül Dağı",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Gönül Dağı",
+     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:45",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
-     "baslik": "Seksenler",
+     "saat": "04:00",
+     "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:20",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "04:45",
+     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:43",
+     "saat": "05:18",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:45",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "05:20",
+     "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
     }
