@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-28",
- "guncellendi": "2026-10-28 16:43",
+ "tarih": "2026-10-29",
+ "guncellendi": "2026-10-29 07:43",
  "kanallar": [
   {
    "id": "kanald",
@@ -76,14 +76,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Güneşin Doğduğu Yer",
+     "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 18
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -94,25 +94,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "23:40",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 6
+     "durum": "yeni",
+     "bolum": 7
     },
     {
-     "saat": "02:40",
-     "baslik": "A.B.İ",
+     "saat": "00:20",
+     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:30",
-     "baslik": "Hercai",
+     "saat": "01:20",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 18
+    },
+    {
+     "saat": "04:00",
+     "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
     }
@@ -127,7 +127,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -170,18 +170,12 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:30",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "01:00",
-     "baslik": "Yerli Dizi",
+     "saat": "00:15",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -288,33 +282,45 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:30",
-     "baslik": "Kod Adı Kırlangıç",
+     "saat": "10:30",
+     "baslik": "Alişan İle Hayata Gülümse",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:00",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "11:00",
+     "baslik": "Anıtkabir'den Naklen Yayın",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "11:15",
+     "baslik": "Alişan İle Hayata Gülümse",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:20",
-     "baslik": "Taşacak Bu Deniz",
+     "saat": "13:20",
+     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "14:40",
-     "baslik": "Evlilik Güzeldir",
-     "durum": "tekrar",
+     "saat": "13:45",
+     "baslik": "29 Ekim Cumhuriyet Bayramı Özel",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "17:50",
-     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
-     "durum": "tekrar",
+     "saat": "16:00",
+     "baslik": "Mannu Çanakkale'de | Türk Sineması",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "17:30",
+     "baslik": "Lingo Türkiye",
+     "durum": null,
      "bolum": null
     },
     {
@@ -324,50 +330,44 @@
      "bolum": null
     },
     {
-     "saat": "20:00",
-     "baslik": "Gönül Dağı",
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "20:00",
+     "baslik": "Evlilik Güzeldir",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "23:15",
      "baslik": "Pelin Çift İle Gündem Ötesi",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:30",
+     "saat": "00:25",
      "baslik": "Pelin Çift İle Gündem Ötesi Artı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:45",
+     "saat": "00:40",
      "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:00",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "03:05",
+     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:45",
-     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:18",
-     "baslik": "İstiklal Marşı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:20",
-     "baslik": "Kalk Gidelim",
+     "saat": "03:25",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     }
@@ -424,7 +424,7 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "baslik": "Zuhal Topal’la Yemekteyiz",
      "durum": null,
      "bolum": null
     },
