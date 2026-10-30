@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-30",
- "guncellendi": "2026-10-30 07:43",
+ "guncellendi": "2026-10-30 16:46",
  "kanallar": [
   {
    "id": "kanald",
@@ -59,7 +59,7 @@
     {
      "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -89,7 +89,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -105,7 +105,7 @@
      "bolum": 18
     },
     {
-     "saat": "23:20",
+     "saat": "23:00",
      "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
      "durum": "tahmin",
      "bolum": null
@@ -139,7 +139,7 @@
    "program": [
     {
      "saat": "07:00",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -181,19 +181,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
-     "durum": "tekrar",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
      "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "saat": "00:45",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
