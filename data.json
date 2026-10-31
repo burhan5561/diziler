@@ -1,6 +1,6 @@
 {
- "tarih": "2026-10-30",
- "guncellendi": "2026-10-30 16:46",
+ "tarih": "2026-10-31",
+ "guncellendi": "2026-10-31 07:39",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,40 +57,28 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
-     "baslik": "Kahvaltı Haberleri",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
-     "durum": null,
+     "saat": "07:30",
+     "baslik": "atv'de Hafta Sonu",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı ile Tatlı Sert",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "13:00",
-     "baslik": "atv Gün Ortası",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 7
     },
     {
-     "saat": "16:00",
-     "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "saat": "13:30",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": null,
      "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 18
     },
     {
      "saat": "19:00",
@@ -100,24 +88,18 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Kim Milyoner Olmak İster?",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:20",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 18
     },
     {
-     "saat": "23:00",
-     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "00:50",
-     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
+     "saat": "02:20",
      "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
@@ -138,39 +120,27 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
+     "saat": "08:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "08:30",
-     "baslik": "Güncel",
-     "durum": "canli",
+     "saat": "11:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:00",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "13:30",
-     "baslik": "Güncel",
+     "saat": "14:00",
+     "baslik": "Yaşam",
      "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "13:45",
+     "saat": "15:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "15:00",
-     "baslik": "Yayında",
-     "durum": "canli",
      "bolum": null
     },
     {
@@ -181,30 +151,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "22:30",
-     "baslik": "Yabancı Film",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "22:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "01:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -300,13 +264,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:35",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:35",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -314,25 +278,43 @@
     {
      "saat": "10:30",
      "baslik": "Alişan İle Hayata Gülümse",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "11:00",
+     "baslik": "Anıtkabir'den Naklen Yayın",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "11:15",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "13:20",
+     "baslik": "Bir Dönüm Noktası \"29 Ekim 1923\"",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "13:45",
+     "baslik": "29 Ekim Cumhuriyet Bayramı Özel",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "13:15",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "14:25",
-     "baslik": "Alparslan: Büyük Selçuklu",
-     "durum": "tekrar",
+     "saat": "16:00",
+     "baslik": "Mannu Çanakkale'de | Türk Sineması",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "17:30",
      "baslik": "Lingo Türkiye",
-     "durum": null,
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -350,29 +332,41 @@
     {
      "saat": "20:00",
      "baslik": "Evlilik Güzeldir",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "22:45",
+     "baslik": "Pelin Çift İle Gündem Ötesi",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Teşkilat",
+     "saat": "23:55",
+     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "00:10",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:30",
-     "baslik": "Seksenler",
+     "saat": "02:25",
+     "baslik": "Lingo Türkiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:48",
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:50",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
@@ -389,36 +383,36 @@
     {
      "saat": "06:30",
      "baslik": "Tuzak",
-     "durum": "yeni",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "07:15",
-     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
+     "saat": "08:00",
+     "baslik": "Oynat Bakalım",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "08:30",
-     "baslik": "Oynat Bakalım",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "09:00",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "12:00",
-     "baslik": "MasterChef Türkiye",
+     "baslik": "Gençlik Rüzgarı / Yeni Bölüm",
      "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "16:00",
-     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
+     "saat": "10:00",
+     "baslik": "Gazete Magazin / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Gupi / Çizgi Film",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "16:30",
+     "baslik": "MasterChef Türkiye",
      "durum": "yeni",
      "bolum": null
     },
@@ -430,26 +424,32 @@
     },
     {
      "saat": "00:15",
-     "baslik": "MasterChef Türkiye",
-     "durum": "tekrar",
+     "baslik": "%100 Futbol / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Caner Taslaman İle Aklımdaki Sorular / Yeni Bölüm",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "04:30",
      "baslik": "Gazete Magazin",
      "durum": null,
      "bolum": null
     },
     {
+     "saat": "04:00",
+     "baslik": "Gençlik Rüzgarı",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "05:00",
-     "baslik": "Oynat Bakalım",
-     "durum": "tekrar",
+     "baslik": "Dizi",
+     "durum": null,
      "bolum": null
     }
    ]
