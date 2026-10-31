@@ -1,6 +1,6 @@
 {
  "tarih": "2026-10-31",
- "guncellendi": "2026-10-31 07:39",
+ "guncellendi": "2026-10-31 16:34",
  "kanallar": [
   {
    "id": "kanald",
@@ -59,7 +59,7 @@
     {
      "saat": "07:30",
      "baslik": "atv'de Hafta Sonu",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -77,7 +77,7 @@
     {
      "saat": "16:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 18
     },
     {
@@ -139,7 +139,7 @@
     },
     {
      "saat": "15:30",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
