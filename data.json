@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-01",
- "guncellendi": "2026-11-01 14:11",
+ "guncellendi": "2026-11-01 21:10",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "12:10",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 18
     },
     {
@@ -95,7 +95,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -151,7 +151,7 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Yayında",
+     "baslik": "Yaşam",
      "durum": "yeni",
      "bolum": null
     },
@@ -169,14 +169,14 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
+     "baslik": "Yayında",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "22:45",
      "baslik": "Yabancı Film",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
