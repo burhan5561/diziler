@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-02",
- "guncellendi": "2026-11-02 15:12",
+ "tarih": "2026-11-03",
+ "guncellendi": "2026-11-03 00:59",
  "kanallar": [
   {
    "id": "kanald",
@@ -12,12 +12,6 @@
     {
      "saat": "20:00",
      "baslik": "Uzak Şehir",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "20:00",
-     "baslik": "Haysiyet",
      "durum": null,
      "bolum": null
     },
@@ -64,7 +58,7 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı İle Tatlı Sert",
+     "baslik": "Müge Anlı ile Tatlı Sert",
      "durum": null,
      "bolum": null
     },
@@ -77,8 +71,8 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
-     "bolum": 18
+     "durum": "tekrar",
+     "bolum": 19
     },
     {
      "saat": "16:00",
@@ -94,19 +88,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "yeni",
-     "bolum": 19
-    },
-    {
-     "saat": "00:20",
      "baslik": "Var Mısın Yok Musun",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "02:45",
-     "baslik": "A.B.İ",
+     "saat": "23:40",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 19
+    },
+    {
+     "saat": "02:40",
+     "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
     },
@@ -157,7 +151,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,24 +163,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Film",
-     "durum": "tahmin",
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:15",
-     "baslik": "Yerli Film",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "23:45",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:30",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -343,18 +331,18 @@
     },
     {
      "saat": "20:45",
-     "baslik": "Fenerbahçe - Liverpool | UEFA Şampiyonlar Ligi Grup Maçları",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "23:00",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Galatasaray - Stuttgart | UEFA Şampiyonlar Ligi Grup Maçları",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:15",
+     "saat": "23:00",
+     "baslik": "Mehmed: Fetihler Sultanı",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:00",
      "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
@@ -387,6 +375,12 @@
    "hata": null,
    "program": [
     {
+     "saat": "06:30",
+     "baslik": "Tuzak",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
      "saat": "07:15",
      "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
      "durum": "yeni",
@@ -405,7 +399,7 @@
      "bolum": null
     },
     {
-     "saat": "11:30",
+     "saat": "12:00",
      "baslik": "MasterChef Türkiye",
      "durum": "yeni",
      "bolum": null
@@ -424,14 +418,14 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
      "bolum": null
     },
     {
