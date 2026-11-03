@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-03",
- "guncellendi": "2026-11-03 14:47",
+ "guncellendi": "2026-11-03 22:53",
  "kanallar": [
   {
    "id": "kanald",
@@ -71,7 +71,7 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 19
     },
     {
@@ -89,7 +89,7 @@
     {
      "saat": "20:00",
      "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -145,7 +145,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -163,7 +163,7 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
