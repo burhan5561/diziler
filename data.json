@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-03",
- "guncellendi": "2026-11-03 00:59",
+ "guncellendi": "2026-11-03 14:47",
  "kanallar": [
   {
    "id": "kanald",
@@ -71,7 +71,7 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 19
     },
     {
@@ -93,13 +93,13 @@
      "bolum": null
     },
     {
-     "saat": "23:40",
-     "baslik": "Altı Üstü İstanbul",
+     "saat": "23:45",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 19
+     "bolum": 7
     },
     {
-     "saat": "02:40",
+     "saat": "03:00",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -145,7 +145,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -164,23 +164,29 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "23:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "01:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "04:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -296,11 +302,11 @@
     {
      "saat": "13:15",
      "baslik": "Seksenler",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "14:25",
+     "saat": "14:15",
      "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
@@ -331,19 +337,19 @@
     },
     {
      "saat": "20:45",
-     "baslik": "Galatasaray - Stuttgart | UEFA Şampiyonlar Ligi Grup Maçları",
-     "durum": "tekrar",
+     "baslik": "Trabzonspor - Freiburg | UEFA Konferans Ligi Grup Maçları",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "23:00",
-     "baslik": "Mehmed: Fetihler Sultanı",
-     "durum": "tekrar",
+     "baslik": "Celtic - Beşiktaş | UEFA Avrupa Ligi Grup Maçları",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "02:00",
-     "baslik": "Seksenler",
+     "saat": "01:15",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     },
