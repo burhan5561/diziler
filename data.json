@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-04",
- "guncellendi": "2026-11-04 14:58",
+ "guncellendi": "2026-11-04 23:08",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -95,7 +95,7 @@
     {
      "saat": "20:00",
      "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -151,7 +151,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -175,8 +175,8 @@
     },
     {
      "saat": "22:15",
-     "baslik": "Yerli Film",
-     "durum": "tekrar",
+     "baslik": "Yayında",
+     "durum": null,
      "bolum": null
     },
     {
