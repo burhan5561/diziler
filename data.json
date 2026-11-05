@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-05",
- "guncellendi": "2026-11-05 15:04",
+ "guncellendi": "2026-11-05 23:22",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -101,7 +101,7 @@
     {
      "saat": "20:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "yeni",
+     "durum": "canli",
      "bolum": 8
     },
     {
@@ -163,7 +163,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -175,7 +175,7 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
