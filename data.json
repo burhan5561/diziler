@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-06",
- "guncellendi": "2026-11-06 14:57",
+ "guncellendi": "2026-11-06 22:45",
  "kanallar": [
   {
    "id": "kanald",
@@ -89,7 +89,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 8
     },
     {
@@ -113,7 +113,7 @@
     {
      "saat": "22:20",
      "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
-     "durum": "tahmin",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -169,7 +169,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -193,24 +193,24 @@
     },
     {
      "saat": "22:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
+     "baslik": "Yayında",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "23:45",
      "baslik": "Yabancı Film",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "01:30",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "03:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
