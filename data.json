@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-05",
- "guncellendi": "2026-11-05 23:22",
+ "tarih": "2026-11-06",
+ "guncellendi": "2026-11-06 14:57",
  "kanallar": [
   {
    "id": "kanald",
@@ -63,8 +63,14 @@
      "bolum": null
     },
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -83,8 +89,8 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": null
+     "durum": "canli",
+     "bolum": 8
     },
     {
      "saat": "16:00",
@@ -100,18 +106,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
-     "bolum": 8
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "baslik": "Ölümcül Çarpışma / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:20",
+     "saat": "22:20",
+     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "23:50",
+     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
      "baslik": "Var Mısın Yok Musun",
      "durum": null,
      "bolum": null
@@ -157,7 +169,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -175,24 +187,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "yeni",
+     "baslik": "Yerli Film",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:00",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "23:45",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
-     "baslik": "Yerli Dizi",
+     "saat": "01:30",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "04:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -424,8 +442,8 @@
     },
     {
      "saat": "00:15",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "MasterChef Türkiye",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -436,6 +454,12 @@
     },
     {
      "saat": "04:30",
+     "baslik": "Gazete Magazin",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:00",
      "baslik": "Oynat Bakalım",
      "durum": "tekrar",
      "bolum": null
