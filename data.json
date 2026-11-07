@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-06",
- "guncellendi": "2026-11-06 22:45",
+ "tarih": "2026-11-07",
+ "guncellendi": "2026-11-07 13:57",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,46 +57,28 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
-     "baslik": "Hercai",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "07:00",
-     "baslik": "Kahvaltı Haberleri",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
+     "saat": "07:30",
+     "baslik": "atv'de Hafta Sonu",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı ile Tatlı Sert",
-     "durum": null,
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 19
+    },
+    {
+     "saat": "13:15",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "13:00",
-     "baslik": "atv Gün Ortası",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "14:00",
+     "saat": "15:45",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 8
-    },
-    {
-     "saat": "16:00",
-     "baslik": "Esra Erol'da",
-     "durum": null,
-     "bolum": null
     },
     {
      "saat": "19:00",
@@ -106,31 +88,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Ölümcül Çarpışma / Yabancı Sinema",
-     "durum": null,
-     "bolum": null
+     "baslik": "Kim Milyoner Olmak İster?",
+     "durum": "yeni",
+     "bolum": 1256
     },
     {
-     "saat": "22:20",
-     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "23:50",
-     "baslik": "Ip Man: Kung Fu Ustası / Yabancı Sinema",
+     "saat": "23:20",
+     "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 19
     },
     {
-     "saat": "01:30",
-     "baslik": "Var Mısın Yok Musun",
+     "saat": "02:20",
+     "baslik": "A.B.İ",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "03:30",
-     "baslik": "Bir Gece Masalı",
+     "saat": "05:00",
+     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -144,39 +120,27 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
      "saat": "08:15",
-     "baslik": "Güncel",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "10:00",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "13:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "15:00",
-     "baslik": "Güncel",
-     "durum": "canli",
+     "saat": "11:15",
+     "baslik": "Yayında",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:00",
+     "baslik": "Yaşam",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -187,30 +151,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Film",
-     "durum": null,
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:00",
-     "baslik": "Yayında",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "23:45",
-     "baslik": "Yabancı Film",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "03:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -401,36 +359,36 @@
     {
      "saat": "06:30",
      "baslik": "Tuzak",
-     "durum": "yeni",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "07:15",
-     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
+     "saat": "08:00",
+     "baslik": "Oynat Bakalım",
      "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "08:30",
-     "baslik": "Oynat Bakalım",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "09:00",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "12:00",
-     "baslik": "MasterChef Türkiye",
+     "baslik": "Gençlik Rüzgarı / Yeni Bölüm",
      "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "16:00",
-     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
+     "saat": "10:00",
+     "baslik": "Gazete Magazin / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Gupi / Çizgi Film",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "16:30",
+     "baslik": "MasterChef Türkiye",
      "durum": "yeni",
      "bolum": null
     },
@@ -442,26 +400,32 @@
     },
     {
      "saat": "00:15",
-     "baslik": "MasterChef Türkiye",
-     "durum": "tekrar",
+     "baslik": "%100 Futbol / Yeni Bölüm",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Caner Taslaman İle Aklımdaki Sorular / Yeni Bölüm",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "02:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "04:30",
      "baslik": "Gazete Magazin",
      "durum": null,
      "bolum": null
     },
     {
+     "saat": "04:00",
+     "baslik": "Gençlik Rüzgarı",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "05:00",
-     "baslik": "Oynat Bakalım",
-     "durum": "tekrar",
+     "baslik": "Dizi",
+     "durum": null,
      "bolum": null
     }
    ]
