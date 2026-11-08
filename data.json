@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-07",
- "guncellendi": "2026-11-07 20:53",
+ "tarih": "2026-11-08",
+ "guncellendi": "2026-11-08 14:11",
  "kanallar": [
   {
    "id": "kanald",
@@ -64,21 +64,27 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 19
-    },
-    {
-     "saat": "13:15",
-     "baslik": "Var Mısın Yok Musun",
+     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "15:45",
+     "saat": "11:20",
+     "baslik": "Dizi TV",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "12:10",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 8
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 19
     },
     {
      "saat": "19:00",
@@ -89,14 +95,14 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "canli",
-     "bolum": 1256
+     "durum": "yeni",
+     "bolum": 1257
     },
     {
      "saat": "23:20",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 19
+     "bolum": 8
     },
     {
      "saat": "02:20",
@@ -105,7 +111,7 @@
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "05:20",
      "baslik": "Hercai",
      "durum": null,
      "bolum": null
@@ -120,20 +126,26 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:15",
+     "saat": "08:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:15",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "saat": "11:00",
+     "baslik": "Kadın",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "12:00",
+     "baslik": "Yaşam",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "14:00",
-     "baslik": "Yaşam",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
@@ -151,24 +163,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "yeni",
+     "baslik": "Yerli Film",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "22:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "01:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:15",
+     "saat": "03:30",
+     "baslik": "Müzik",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -357,12 +375,6 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:30",
-     "baslik": "Tuzak",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "08:00",
      "baslik": "Oynat Bakalım",
      "durum": "yeni",
@@ -396,36 +408,6 @@
      "saat": "20:00",
      "baslik": "MasterChef Türkiye / Yeni Bölüm",
      "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "%100 Futbol / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
-     "baslik": "Caner Taslaman İle Aklımdaki Sorular / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "02:30",
-     "baslik": "Gazete Magazin",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "04:00",
-     "baslik": "Gençlik Rüzgarı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:00",
-     "baslik": "Dizi",
-     "durum": null,
      "bolum": null
     }
    ]
