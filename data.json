@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-09",
- "guncellendi": "2026-11-09 15:43",
+ "tarih": "2026-11-10",
+ "guncellendi": "2026-11-10 01:46",
  "kanallar": [
   {
    "id": "kanald",
@@ -64,7 +64,7 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı İle Tatlı Sert",
+     "baslik": "Müge Anlı ile Tatlı Sert",
      "durum": null,
      "bolum": null
     },
@@ -77,8 +77,8 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
-     "bolum": 19
+     "durum": "tekrar",
+     "bolum": 20
     },
     {
      "saat": "16:00",
@@ -94,25 +94,25 @@
     },
     {
      "saat": "20:00",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "23:40",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "yeni",
+     "durum": "tekrar",
      "bolum": 20
     },
     {
-     "saat": "00:20",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "02:40",
-     "baslik": "Bir Gece Masalı",
-     "durum": null,
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
-     "baslik": "Hercai",
+     "saat": "05:00",
+     "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
     }
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,18 +169,12 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Film",
-     "durum": "tahmin",
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:15",
-     "baslik": "Yerli Film",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "23:45",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -250,18 +244,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Recep İvedik 7",
+     "baslik": "Yol Ayrımı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "22:45",
+     "saat": "22:30",
      "baslik": "Anne Yarısı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:30",
+     "saat": "01:15",
      "baslik": "Ali İhsan Varol ile Kumbara",
      "durum": "tekrar",
      "bolum": null
@@ -288,38 +282,50 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:50",
-     "baslik": "Yedi Güzel Adam",
+     "saat": "06:10",
+     "baslik": "Ya İstiklal Ya Ölüm",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "08:50",
-     "baslik": "Kod Adı Kırlangıç",
+     "saat": "08:45",
+     "baslik": "Anıtkabir'den Naklen Yayın",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "09:15",
+     "baslik": "Ya İstiklal Ya Ölüm",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:15",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "10:00",
+     "baslik": "Dolmabahçe'de O Sabah : 10 Kasım 1938",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:40",
-     "baslik": "Yerli Dizi",
+     "saat": "10:30",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "13:15",
+     "baslik": "Seksenler",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "14:45",
-     "baslik": "Yerli Dizi",
+     "saat": "14:05",
+     "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "17:50",
-     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "saat": "17:30",
+     "baslik": "Lingo Türkiye",
      "durum": null,
      "bolum": null
     },
@@ -330,50 +336,38 @@
      "bolum": null
     },
     {
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "20:00",
-     "baslik": "Gönül Dağı",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Pelin Çift İle Gündem Ötesi",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
-     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:45",
-     "baslik": "Sükut | Yabancı Sinema",
+     "baslik": "Taşacak Bu Deniz",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
-     "baslik": "Yerli Dizi",
+     "saat": "03:05",
+     "baslik": "Alparslan: Büyük Selçuklu",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:10",
-     "baslik": "Hayallerinin Peşinde",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:43",
+     "saat": "05:23",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:45",
-     "baslik": "Lingo Türkiye",
+     "saat": "05:25",
+     "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
     }
@@ -386,6 +380,12 @@
    "ok": true,
    "hata": null,
    "program": [
+    {
+     "saat": "06:30",
+     "baslik": "Tuzak",
+     "durum": "yeni",
+     "bolum": null
+    },
     {
      "saat": "07:15",
      "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
@@ -401,12 +401,12 @@
     {
      "saat": "09:00",
      "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "12:45",
-     "baslik": "Temizlik Benim İşim / Yeni",
+     "baslik": "Temizlik Benim İşim / Yeni Bölüm",
      "durum": "yeni",
      "bolum": null
     },
@@ -430,18 +430,18 @@
     },
     {
      "saat": "01:30",
-     "baslik": "Zuhal Topal’la Yemekteyiz",
-     "durum": null,
+     "baslik": "Zuhal Topal‘la Yemekteyiz",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "03:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
+     "baslik": "Gel Konuşalım / Canlı",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "05:30",
      "baslik": "Oynat Bakalım",
      "durum": "tekrar",
      "bolum": null
