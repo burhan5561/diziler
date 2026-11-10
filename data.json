@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-10",
- "guncellendi": "2026-11-10 01:46",
+ "guncellendi": "2026-11-10 15:25",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 20
     },
     {
@@ -99,19 +99,19 @@
      "bolum": null
     },
     {
-     "saat": "23:40",
+     "saat": "23:20",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 20
     },
     {
-     "saat": "02:40",
+     "saat": "02:00",
      "baslik": "Var Mısın Yok Musun",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "04:45",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -282,50 +282,38 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:10",
-     "baslik": "Ya İstiklal Ya Ölüm",
+     "saat": "06:50",
+     "baslik": "Yedi Güzel Adam",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "08:45",
-     "baslik": "Anıtkabir'den Naklen Yayın",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "09:15",
-     "baslik": "Ya İstiklal Ya Ölüm",
+     "saat": "08:50",
+     "baslik": "Kod Adı Kırlangıç",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:00",
-     "baslik": "Dolmabahçe'de O Sabah : 10 Kasım 1938",
+     "saat": "10:15",
+     "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:30",
-     "baslik": "Alişan İle Hayata Gülümse",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "13:15",
-     "baslik": "Seksenler",
+     "saat": "11:40",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "14:05",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "14:45",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "17:30",
-     "baslik": "Lingo Türkiye",
+     "saat": "17:50",
+     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": null,
      "bolum": null
     },
@@ -336,38 +324,50 @@
      "bolum": null
     },
     {
-     "saat": "19:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "20:00",
-     "baslik": "Mehmed: Fetihler Sultanı",
+     "baslik": "Gönül Dağı",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "00:15",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:45",
+     "baslik": "Sükut | Yabancı Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:05",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "03:00",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:23",
+     "saat": "05:10",
+     "baslik": "Hayallerinin Peşinde",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:25",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "05:45",
+     "baslik": "Lingo Türkiye",
      "durum": "tekrar",
      "bolum": null
     }
