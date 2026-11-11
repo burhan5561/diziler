@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-11",
- "guncellendi": "2026-11-11 14:46",
+ "guncellendi": "2026-11-11 22:55",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -95,7 +95,7 @@
     {
      "saat": "20:00",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "tahmin",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -151,7 +151,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yayında",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -169,19 +169,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "saat": "23:00",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "saat": "01:30",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -383,76 +383,9 @@
    "id": "tv8",
    "ad": "TV8",
    "kaynak": "https://www.tv8.com.tr/yayin-akisi",
-   "ok": true,
-   "hata": null,
-   "program": [
-    {
-     "saat": "06:30",
-     "baslik": "Tuzak",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "07:15",
-     "baslik": "Ebru ile 8'de Sağlık / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Oynat Bakalım",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "09:00",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "12:45",
-     "baslik": "Temizlik Benim İşim / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "16:00",
-     "baslik": "Zuhal Topal’la Yemekteyiz / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "20:00",
-     "baslik": "MasterChef Türkiye / Yeni Bölüm",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "Temizlik Benim İşim",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:30",
-     "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "03:30",
-     "baslik": "Gel Konuşalım",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
-     "baslik": "Oynat Bakalım",
-     "durum": "tekrar",
-     "bolum": null
-    }
-   ]
+   "ok": false,
+   "hata": "Sayfada yayın akışı bulunamadı",
+   "program": []
   }
  ]
 }
