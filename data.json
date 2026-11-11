@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-10",
- "guncellendi": "2026-11-10 23:05",
+ "tarih": "2026-11-11",
+ "guncellendi": "2026-11-11 14:46",
  "kanallar": [
   {
    "id": "kanald",
@@ -76,9 +76,9 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 20
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "canli",
+     "bolum": null
     },
     {
      "saat": "16:00",
@@ -95,14 +95,14 @@
     {
      "saat": "20:00",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "canli",
+     "durum": "tahmin",
      "bolum": null
     },
     {
      "saat": "23:20",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 20
+     "bolum": 8
     },
     {
      "saat": "02:00",
@@ -111,7 +111,7 @@
      "bolum": null
     },
     {
-     "saat": "04:45",
+     "saat": "04:30",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -151,7 +151,7 @@
     },
     {
      "saat": "13:45",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
@@ -169,13 +169,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -282,38 +288,44 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:50",
-     "baslik": "Yedi Güzel Adam",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "08:50",
-     "baslik": "Kod Adı Kırlangıç",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "10:15",
+     "saat": "06:00",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:40",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "14:45",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "17:50",
+     "saat": "06:45",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "07:45",
+     "baslik": "Kalk Gidelim",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "10:30",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "13:15",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:15",
+     "baslik": "Alparslan: Büyük Selçuklu",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "17:30",
+     "baslik": "Lingo Türkiye",
      "durum": null,
      "bolum": null
     },
@@ -324,51 +336,45 @@
      "bolum": null
     },
     {
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "Evlilik Güzeldir",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "20:00",
      "baslik": "Gönül Dağı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "saat": "23:10",
+     "baslik": "3'Te 3",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:30",
-     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
+     "saat": "00:10",
+     "baslik": "Teşkilat",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:35",
+     "baslik": "Gabbeh | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:45",
-     "baslik": "Sükut | Yabancı Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:10",
-     "baslik": "Hayallerinin Peşinde",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:43",
+     "saat": "05:58",
      "baslik": "İstiklal Marşı",
      "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:45",
-     "baslik": "Lingo Türkiye",
-     "durum": "tekrar",
      "bolum": null
     }
    ]
@@ -431,13 +437,13 @@
     {
      "saat": "01:30",
      "baslik": "Zuhal Topal‘la Yemekteyiz",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "03:30",
-     "baslik": "Gel Konuşalım / Canlı",
-     "durum": "canli",
+     "baslik": "Gel Konuşalım",
+     "durum": null,
      "bolum": null
     },
     {
