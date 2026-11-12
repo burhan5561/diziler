@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-11",
- "guncellendi": "2026-11-11 22:55",
+ "tarih": "2026-11-12",
+ "guncellendi": "2026-11-12 15:27",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,12 +77,18 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "18:45",
+     "baslik": "Milli Maça Doğru",
      "durum": null,
      "bolum": null
     },
@@ -94,25 +100,31 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": "canli",
+     "baslik": "Türkiye - Belçika",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:20",
+     "saat": "22:15",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 8
     },
     {
-     "saat": "02:00",
+     "saat": "01:20",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "03:30",
      "baslik": "Bir Gece Masalı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -157,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -169,18 +181,12 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "23:00",
      "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "01:30",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
