@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-12",
- "guncellendi": "2026-11-12 23:32",
+ "tarih": "2026-11-13",
+ "guncellendi": "2026-11-13 15:01",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,8 +57,14 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -76,19 +82,13 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": null
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "canli",
+     "bolum": 20
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "18:45",
-     "baslik": "Milli Maça Doğru",
      "durum": null,
      "bolum": null
     },
@@ -100,30 +100,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Türkiye - Belçika",
+     "baslik": "Buz Devri 4 : Kıtalar Ayrılıyor / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "22:15",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
-     "bolum": 8
-    },
-    {
-     "saat": "01:20",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "saat": "21:45",
+     "baslik": "Son 3 Gün / Yabancı Sinema",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "00:20",
+     "baslik": "Son 3 Gün / Yabancı Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:20",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Hercai",
      "durum": null,
      "bolum": null
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -181,24 +181,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "yeni",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "22:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
-     "baslik": "Yerli Dizi",
+     "saat": "01:00",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "02:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
