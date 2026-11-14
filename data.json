@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-14",
- "guncellendi": "2026-11-14 14:20",
+ "guncellendi": "2026-11-14 21:34",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "13:20",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 8
     },
     {
@@ -95,7 +95,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -139,7 +139,7 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Yayında",
+     "baslik": "Yaşam",
      "durum": "yeni",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
