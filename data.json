@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-13",
- "guncellendi": "2026-11-13 23:08",
+ "tarih": "2026-11-14",
+ "guncellendi": "2026-11-14 14:20",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,40 +57,34 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
-     "baslik": "Kahvaltı Haberleri",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
+     "saat": "07:30",
+     "baslik": "atv'de Hafta Sonu",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı ile Tatlı Sert",
+     "baslik": "Buz Devri 4: Kıtalar Ayrılıyor / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "13:00",
-     "baslik": "atv Gün Ortası",
+     "saat": "11:35",
+     "baslik": "Çılgın Ortak",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 20
+     "saat": "13:20",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "canli",
+     "bolum": 8
     },
     {
      "saat": "16:00",
-     "baslik": "Esra Erol'da",
-     "durum": null,
-     "bolum": null
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 20
     },
     {
      "saat": "19:00",
@@ -100,21 +94,15 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Buz Devri 4 : Kıtalar Ayrılıyor / Yabancı Sinema",
+     "baslik": "Kim Milyoner Olmak İster?",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "21:45",
-     "baslik": "Son 3 Gün / Yabancı Sinema",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Son 3 Gün / Yabancı Sinema",
+     "saat": "23:20",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 8
     },
     {
      "saat": "02:20",
@@ -138,39 +126,27 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
+     "saat": "08:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "08:15",
-     "baslik": "Güncel",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "10:00",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "13:45",
+     "saat": "11:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "15:00",
-     "baslik": "Güncel",
-     "durum": "canli",
+     "saat": "14:00",
+     "baslik": "Yayında",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -181,24 +157,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
+     "baslik": "Yerli Dizi",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "22:15",
-     "baslik": "Yayında",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "01:00",
-     "baslik": "Yabancı Film",
+     "saat": "00:15",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "02:45",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "Müzik",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
