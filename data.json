@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-15",
- "guncellendi": "2026-11-15 14:51",
+ "guncellendi": "2026-11-15 22:10",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "12:10",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -107,7 +107,7 @@
     {
      "saat": "21:45",
      "baslik": "Milli Maça Doğru",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -157,7 +157,7 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Yayında",
+     "baslik": "Yaşam",
      "durum": "yeni",
      "bolum": null
     },
@@ -176,12 +176,12 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Film",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "22:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yayında",
      "durum": "tekrar",
      "bolum": null
     },
