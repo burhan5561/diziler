@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-14",
- "guncellendi": "2026-11-14 21:34",
+ "tarih": "2026-11-15",
+ "guncellendi": "2026-11-15 14:51",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,6 +57,12 @@
    "hata": null,
    "program": [
     {
+     "saat": "06:00",
+     "baslik": "Hercai",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "07:30",
      "baslik": "atv'de Hafta Sonu",
      "durum": null,
@@ -64,27 +70,27 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Buz Devri 4: Kıtalar Ayrılıyor / Yabancı Sinema",
+     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "11:35",
-     "baslik": "Çılgın Ortak",
+     "saat": "11:20",
+     "baslik": "Dizi TV",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "13:20",
+     "saat": "12:10",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "15:20",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 8
-    },
-    {
-     "saat": "16:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 20
     },
     {
      "saat": "19:00",
@@ -94,25 +100,31 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "23:20",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 8
-    },
-    {
-     "saat": "02:20",
-     "baslik": "Bir Gece Masalı",
+     "baslik": "Kim Milyoner Olmak İster? / Özel Bölüm",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:00",
-     "baslik": "Hercai",
+     "saat": "21:45",
+     "baslik": "Milli Maça Doğru",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "22:45",
+     "baslik": "Fransa - Türkiye",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "00:40",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": "tekrar",
+     "bolum": 20
+    },
+    {
+     "saat": "03:30",
+     "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
     }
@@ -133,13 +145,19 @@
     },
     {
      "saat": "11:00",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "baslik": "Kadın",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "12:00",
+     "baslik": "Yaşam",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "14:00",
-     "baslik": "Yaşam",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
@@ -157,32 +175,38 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yayında",
-     "durum": "yeni",
+     "baslik": "Yerli Film",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
+     "saat": "22:00",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "01:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:45",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:30",
+     "saat": "03:30",
      "baslik": "Müzik",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "04:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Baba Ocağı",
+     "durum": null,
      "bolum": null
     }
    ]
