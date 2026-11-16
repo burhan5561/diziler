@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-15",
- "guncellendi": "2026-11-15 22:10",
+ "tarih": "2026-11-16",
+ "guncellendi": "2026-11-16 15:35",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,40 +57,34 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
-     "baslik": "Hercai",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "07:30",
-     "baslik": "atv'de Hafta Sonu",
+     "saat": "08:00",
+     "baslik": "Kahvaltı Haberleri",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Nihat Hatipoğlu ile Kur'an ve Sünnet",
+     "baslik": "Müge Anlı İle Tatlı Sert",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "11:20",
-     "baslik": "Dizi TV",
+     "saat": "13:00",
+     "baslik": "atv Gün Ortası",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "12:10",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "15:20",
+     "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
-     "bolum": 8
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "Esra Erol'da",
+     "durum": null,
+     "bolum": null
     },
     {
      "saat": "19:00",
@@ -100,31 +94,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Kim Milyoner Olmak İster? / Özel Bölüm",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "21:45",
-     "baslik": "Milli Maça Doğru",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "22:45",
-     "baslik": "Fransa - Türkiye",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "00:40",
      "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 20
+     "durum": "yeni",
+     "bolum": 21
     },
     {
-     "saat": "03:30",
+     "saat": "00:20",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "03:00",
      "baslik": "Bir Gece Masalı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
+     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -138,33 +126,39 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "11:00",
-     "baslik": "Kadın",
-     "durum": "yeni",
+     "saat": "08:15",
+     "baslik": "Güncel",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "12:00",
-     "baslik": "Yaşam",
-     "durum": "yeni",
+     "saat": "08:30",
+     "baslik": "Güncel",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "14:00",
-     "baslik": "Yaşam",
-     "durum": "yeni",
+     "saat": "10:00",
+     "baslik": "Güncel",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "15:30",
+     "saat": "13:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "15:00",
+     "baslik": "Yayında",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -175,38 +169,32 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Film",
-     "durum": null,
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
      "saat": "22:00",
-     "baslik": "Yayında",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "01:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
-     "baslik": "Müzik",
+     "saat": "00:30",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "02:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
-     "baslik": "Baba Ocağı",
-     "durum": null,
+     "saat": "05:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     }
    ]
@@ -249,7 +237,7 @@
      "bolum": null
     },
     {
-     "saat": "17:30",
+     "saat": "17:45",
      "baslik": "Ali İhsan Varol ile Kumbara",
      "durum": "yeni",
      "bolum": null
@@ -262,18 +250,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yol Ayrımı",
-     "durum": null,
+     "baslik": "Ömür Usta",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "22:30",
+     "saat": "23:00",
      "baslik": "Anne Yarısı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:15",
+     "saat": "02:00",
      "baslik": "Ali İhsan Varol ile Kumbara",
      "durum": "tekrar",
      "bolum": null
@@ -289,6 +277,12 @@
      "baslik": "Yasak Elma",
      "durum": null,
      "bolum": null
+    },
+    {
+     "saat": "05:15",
+     "baslik": "Karagül",
+     "durum": null,
+     "bolum": null
     }
    ]
   },
@@ -300,19 +294,13 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
-     "baslik": "Hayallerinin Peşinde",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "06:45",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:45",
+     "saat": "07:30",
      "baslik": "Kalk Gidelim",
      "durum": "tekrar",
      "bolum": null
@@ -330,8 +318,8 @@
      "bolum": null
     },
     {
-     "saat": "14:15",
-     "baslik": "Alparslan: Büyük Selçuklu",
+     "saat": "14:05",
+     "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
     },
@@ -355,38 +343,38 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Evlilik Güzeldir",
+     "baslik": "Avcı : Kış Savaşı | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "20:00",
-     "baslik": "Gönül Dağı",
+     "saat": "22:25",
+     "baslik": "Mumya | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:10",
-     "baslik": "3'Te 3",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "00:10",
-     "baslik": "Teşkilat",
+     "saat": "00:25",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:35",
-     "baslik": "Gabbeh | Yabancı Sinema",
+     "saat": "03:10",
+     "baslik": "Masumlar Apartmanı",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:43",
+     "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:58",
-     "baslik": "İstiklal Marşı",
-     "durum": null,
+     "saat": "05:45",
+     "baslik": "Hayallerinin Peşinde",
+     "durum": "tekrar",
      "bolum": null
     }
    ]
