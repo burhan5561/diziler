@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-16",
- "guncellendi": "2026-11-16 15:35",
+ "tarih": "2026-11-17",
+ "guncellendi": "2026-11-17 01:37",
  "kanallar": [
   {
    "id": "kanald",
@@ -64,7 +64,7 @@
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı İle Tatlı Sert",
+     "baslik": "Müge Anlı ile Tatlı Sert",
      "durum": null,
      "bolum": null
     },
@@ -77,7 +77,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -94,25 +94,25 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "yeni",
-     "bolum": 21
-    },
-    {
-     "saat": "00:20",
      "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "23:20",
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 8
+    },
+    {
+     "saat": "02:20",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:00",
      "baslik": "Bir Gece Masalı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
-     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,24 +169,18 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yabancı Film",
-     "durum": "tahmin",
-     "bolum": null
-    },
-    {
-     "saat": "22:00",
      "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
      "saat": "00:30",
-     "baslik": "Yabancı Film",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:30",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -318,7 +312,7 @@
      "bolum": null
     },
     {
-     "saat": "14:05",
+     "saat": "14:15",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -343,24 +337,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Avcı : Kış Savaşı | Yabancı Sinema",
+     "baslik": "Yüzüklerin Efendisi: İki Kule | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "22:25",
-     "baslik": "Mumya | Yabancı Sinema",
+     "saat": "23:40",
+     "baslik": "Whiplash | Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:25",
+     "saat": "01:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:10",
+     "saat": "03:20",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -383,9 +377,76 @@
    "id": "tv8",
    "ad": "TV8",
    "kaynak": "https://www.tv8.com.tr/yayin-akisi",
-   "ok": false,
-   "hata": "Sayfada yayın akışı bulunamadı",
-   "program": []
+   "ok": true,
+   "hata": null,
+   "program": [
+    {
+     "saat": "06:30",
+     "baslik": "07.15",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "07:15",
+     "baslik": "08.30",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "09.00",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "09:00",
+     "baslik": "12.45",
+     "durum": "canli",
+     "bolum": null
+    },
+    {
+     "saat": "12:45",
+     "baslik": "16.00",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "16:00",
+     "baslik": "20.00",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "20:00",
+     "baslik": "00.15",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "01.30",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "03.30",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "03:30",
+     "baslik": "05.30",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "04:30",
+     "baslik": "06.30",
+     "durum": null,
+     "bolum": null
+    }
+   ]
   }
  ]
 }
