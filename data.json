@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-17",
- "guncellendi": "2026-11-17 15:59",
+ "tarih": "2026-11-18",
+ "guncellendi": "2026-11-18 00:25",
  "kanallar": [
   {
    "id": "kanald",
@@ -76,8 +76,8 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "baslik": "Altı Üstü İstanbul",
+     "durum": null,
      "bolum": null
     },
     {
@@ -100,18 +100,18 @@
     },
     {
      "saat": "23:20",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 21
+     "baslik": "Görevimiz Tatil / Yerli Sinema",
+     "durum": null,
+     "bolum": null
     },
     {
-     "saat": "02:20",
+     "saat": "01:30",
      "baslik": "Var Mısın Yok Musun",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "04:00",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,13 +169,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Film",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "22:00",
+     "baslik": "Yerli Film",
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
@@ -289,38 +295,38 @@
    "program": [
     {
      "saat": "06:30",
-     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "baslik": "Yedi Güzel Adam",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "07:30",
-     "baslik": "Kalk Gidelim",
+     "saat": "08:35",
+     "baslik": "Kod Adı Kırlangıç",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "10:30",
-     "baslik": "Alişan İle Hayata Gülümse",
+     "saat": "10:00",
+     "baslik": "Hayallerinin Peşinde",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "13:15",
-     "baslik": "Seksenler",
+     "saat": "11:25",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "14:15",
-     "baslik": "Masumlar Apartmanı",
+     "saat": "14:50",
+     "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "17:30",
-     "baslik": "Lingo Türkiye",
-     "durum": "tekrar",
+     "saat": "17:50",
+     "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "durum": null,
      "bolum": null
     },
     {
@@ -330,50 +336,44 @@
      "bolum": null
     },
     {
-     "saat": "19:55",
-     "baslik": "İddiaların Aksine",
-     "durum": null,
-     "bolum": null
-    },
-    {
      "saat": "20:00",
-     "baslik": "Yüzüklerin Efendisi: İki Kule | Yabancı Sinema",
+     "baslik": "Gönül Dağı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "23:40",
-     "baslik": "Whiplash | Yabancı Sinema",
+     "saat": "00:15",
+     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "01:45",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Bab'Aziz | Yabancı Sinema",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "03:15",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "04:00",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:40",
-     "baslik": "Lingo Türkiye",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:43",
+     "saat": "05:23",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:45",
-     "baslik": "Hayallerinin Peşinde",
+     "saat": "05:25",
+     "baslik": "Lingo Türkiye",
      "durum": "tekrar",
      "bolum": null
     }
@@ -443,11 +443,11 @@
     {
      "saat": "03:30",
      "baslik": "05.30",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "05:30",
      "baslik": "06.30",
      "durum": null,
      "bolum": null
