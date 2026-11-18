@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-18",
- "guncellendi": "2026-11-18 00:25",
+ "guncellendi": "2026-11-18 15:53",
  "kanallar": [
   {
    "id": "kanald",
@@ -77,7 +77,7 @@
     {
      "saat": "14:00",
      "baslik": "Altı Üstü İstanbul",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -113,6 +113,12 @@
     {
      "saat": "04:00",
      "baslik": "Bir Gece Masalı",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "05:55",
+     "baslik": "Hercai",
      "durum": null,
      "bolum": null
     }
@@ -157,7 +163,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
