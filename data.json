@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-19",
- "guncellendi": "2026-11-19 15:45",
+ "tarih": "2026-11-20",
+ "guncellendi": "2026-11-20 00:03",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,8 +57,14 @@
    "hata": null,
    "program": [
     {
-     "saat": "08:00",
+     "saat": "07:00",
      "baslik": "Kahvaltı Haberleri",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -76,9 +82,9 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "canli",
-     "bolum": null
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "tekrar",
+     "bolum": 9
     },
     {
      "saat": "16:00",
@@ -94,30 +100,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "yeni",
-     "bolum": 9
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
+     "baslik": "Buz Devri 5: Büyük Çarpışma / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:20",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": null,
+     "saat": "21:50",
+     "baslik": "Barry Seal: Kaçakçı / Yabancı Sinema",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "03:30",
+     "saat": "00:00",
+     "baslik": "Barry Seal: Kaçakçı / Yabancı Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:10",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Hercai",
      "durum": null,
      "bolum": null
@@ -163,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -176,17 +182,23 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "23:00",
+     "baslik": "Yerli Film",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "00:45",
+     "baslik": "Yerli Film",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
