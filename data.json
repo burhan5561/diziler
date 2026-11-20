@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-20",
- "guncellendi": "2026-11-20 15:41",
+ "guncellendi": "2026-11-20 23:49",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "canli",
+     "durum": "tekrar",
      "bolum": 9
     },
     {
@@ -107,7 +107,7 @@
     {
      "saat": "21:50",
      "baslik": "Barry Seal: Kaçakçı / Yabancı Sinema",
-     "durum": "tahmin",
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -187,14 +187,14 @@
     },
     {
      "saat": "23:00",
-     "baslik": "Yerli Film",
-     "durum": "tahmin",
+     "baslik": "Yayında",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "00:45",
      "baslik": "Yerli Film",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
