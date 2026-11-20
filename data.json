@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-20",
- "guncellendi": "2026-11-20 00:03",
+ "guncellendi": "2026-11-20 15:41",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tekrar",
+     "durum": "canli",
      "bolum": 9
     },
     {
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
