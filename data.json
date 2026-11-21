@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-20",
- "guncellendi": "2026-11-20 23:49",
+ "tarih": "2026-11-21",
+ "guncellendi": "2026-11-21 15:22",
  "kanallar": [
   {
    "id": "kanald",
@@ -57,40 +57,28 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
-     "baslik": "Kahvaltı Haberleri",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
+     "saat": "07:30",
+     "baslik": "atv'de Hafta Sonu",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "10:00",
-     "baslik": "Müge Anlı ile Tatlı Sert",
+     "baslik": "Buz Devri 5 : Büyük Çarpışma / Yabancı Sinema",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "13:00",
-     "baslik": "atv Gün Ortası",
-     "durum": null,
+     "saat": "11:45",
+     "baslik": "Var Mısın Yok Musun",
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "14:00",
+     "saat": "15:25",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
      "bolum": 9
-    },
-    {
-     "saat": "16:00",
-     "baslik": "Esra Erol'da",
-     "durum": null,
-     "bolum": null
     },
     {
      "saat": "19:00",
@@ -100,24 +88,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Buz Devri 5: Büyük Çarpışma / Yabancı Sinema",
-     "durum": null,
+     "baslik": "Kim Milyoner Olmak İster?",
+     "durum": "yeni",
+     "bolum": 1259
+    },
+    {
+     "saat": "23:20",
+     "baslik": "Aman Reis Duymasın / Yerli Sinema",
+     "durum": "tahmin",
      "bolum": null
     },
     {
-     "saat": "21:50",
-     "baslik": "Barry Seal: Kaçakçı / Yabancı Sinema",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "00:00",
-     "baslik": "Barry Seal: Kaçakçı / Yabancı Sinema",
+     "saat": "01:00",
+     "baslik": "Aman Reis Duymasın / Yerli Sinema",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:10",
+     "saat": "02:40",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -138,39 +126,27 @@
    "hata": null,
    "program": [
     {
-     "saat": "07:00",
+     "saat": "08:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "08:15",
-     "baslik": "Güncel",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "08:30",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "10:00",
-     "baslik": "Güncel",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "13:45",
+     "saat": "11:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "15:00",
-     "baslik": "Güncel",
-     "durum": "canli",
+     "saat": "14:00",
+     "baslik": "Yayında",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
      "bolum": null
     },
     {
@@ -182,19 +158,13 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "00:15",
+     "baslik": "Yerli Dizi",
      "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "23:00",
-     "baslik": "Yayında",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "00:45",
-     "baslik": "Yerli Film",
-     "durum": null,
      "bolum": null
     },
     {
@@ -400,38 +370,38 @@
    "program": [
     {
      "saat": "06:30",
-     "baslik": "07.15",
+     "baslik": "08.00",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "07:15",
+     "saat": "08:00",
      "baslik": "08.30",
-     "durum": "yeni",
+     "durum": null,
      "bolum": null
     },
     {
      "saat": "08:30",
-     "baslik": "09.00",
+     "baslik": "10.00",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "10:00",
+     "baslik": "15.30",
+     "durum": "yeni",
+     "bolum": null
+    },
+    {
+     "saat": "15:30",
+     "baslik": "16.30",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "09:00",
-     "baslik": "12.45",
-     "durum": "canli",
-     "bolum": null
-    },
-    {
-     "saat": "12:45",
-     "baslik": "16.00",
-     "durum": "yeni",
-     "bolum": null
-    },
-    {
-     "saat": "16:00",
+     "saat": "16:30",
      "baslik": "20.00",
-     "durum": "yeni",
+     "durum": null,
      "bolum": null
     },
     {
