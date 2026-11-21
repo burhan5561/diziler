@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-21",
- "guncellendi": "2026-11-21 15:22",
+ "guncellendi": "2026-11-21 22:51",
  "kanallar": [
   {
    "id": "kanald",
@@ -71,7 +71,7 @@
     {
      "saat": "11:45",
      "baslik": "Var Mısın Yok Musun",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -89,7 +89,7 @@
     {
      "saat": "20:00",
      "baslik": "Kim Milyoner Olmak İster?",
-     "durum": "yeni",
+     "durum": "canli",
      "bolum": 1259
     },
     {
@@ -139,7 +139,7 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Yayında",
+     "baslik": "Yaşam",
      "durum": "yeni",
      "bolum": null
     },
@@ -157,7 +157,7 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
+     "baslik": "Yayında",
      "durum": "yeni",
      "bolum": null
     },
