@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-24",
- "guncellendi": "2026-11-24 17:43",
+ "tarih": "2026-11-25",
+ "guncellendi": "2026-11-25 01:50",
  "kanallar": [
   {
    "id": "kanald",
@@ -9,6 +9,12 @@
    "ok": true,
    "hata": null,
    "program": [
+    {
+     "saat": "20:00",
+     "baslik": "Susuz Yaz",
+     "durum": null,
+     "bolum": null
+    },
     {
      "saat": "20:00",
      "baslik": "Uzak Şehir",
@@ -76,14 +82,14 @@
     },
     {
      "saat": "14:00",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 22
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": null,
+     "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -99,19 +105,19 @@
      "bolum": null
     },
     {
-     "saat": "00:20",
-     "baslik": "Altı Üstü İstanbul",
-     "durum": "tekrar",
-     "bolum": 22
+     "saat": "23:20",
+     "baslik": "Aşk Tesadüfleri Sever / Yerli Sinema",
+     "durum": null,
+     "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "01:40",
      "baslik": "Var Mısın Yok Musun",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:30",
+     "saat": "04:00",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -157,7 +163,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -169,13 +175,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -306,7 +318,7 @@
      "bolum": null
     },
     {
-     "saat": "13:40",
+     "saat": "14:25",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -331,30 +343,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Maç Önü",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "20:45",
-     "baslik": "Beşiktaş - Hapoel Beerşeba | UEFA Avrupa Ligi Grup Maçları",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "23:00",
-     "baslik": "ÇSKA Sofya - Trabzonspor | UEFA Konferans Ligi Grup Maçları",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:00",
-     "baslik": "Teşkilat",
+     "baslik": "Evlilik Güzeldir",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:00",
+     "saat": "23:00",
+     "baslik": "Shaktar Donetsk - Fenerbahçe | UEFA Şampiyonlar Ligi Grup Maçları",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:15",
+     "baslik": "Gönül Dağı",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:45",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -437,11 +443,11 @@
     {
      "saat": "03:30",
      "baslik": "05.30",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
-     "saat": "04:30",
+     "saat": "05:30",
      "baslik": "06.30",
      "durum": null,
      "bolum": null
