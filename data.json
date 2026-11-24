@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-24",
- "guncellendi": "2026-11-24 03:27",
+ "guncellendi": "2026-11-24 17:43",
  "kanallar": [
   {
    "id": "kanald",
@@ -83,7 +83,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -99,19 +99,19 @@
      "bolum": null
     },
     {
-     "saat": "23:20",
+     "saat": "00:20",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 22
     },
     {
-     "saat": "02:20",
+     "saat": "03:00",
      "baslik": "Var Mısın Yok Musun",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "05:30",
      "baslik": "Bir Gece Masalı",
      "durum": null,
      "bolum": null
@@ -157,7 +157,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -306,7 +306,7 @@
      "bolum": null
     },
     {
-     "saat": "14:05",
+     "saat": "13:40",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -314,7 +314,7 @@
     {
      "saat": "17:30",
      "baslik": "Lingo Türkiye",
-     "durum": "tekrar",
+     "durum": null,
      "bolum": null
     },
     {
@@ -337,31 +337,25 @@
     },
     {
      "saat": "20:45",
-     "baslik": "Galatasaray - Aston Villa | UEFA Şampiyonlar Ligi Grup Maçları",
+     "baslik": "Beşiktaş - Hapoel Beerşeba | UEFA Avrupa Ligi Grup Maçları",
      "durum": null,
      "bolum": null
     },
     {
      "saat": "23:00",
-     "baslik": "Mehmed: Fetihler Sultanı",
+     "baslik": "ÇSKA Sofya - Trabzonspor | UEFA Konferans Ligi Grup Maçları",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:00",
+     "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "01:40",
-     "baslik": "Gönül Dağı",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:10",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "04:40",
-     "baslik": "Lingo Türkiye",
+     "saat": "03:00",
+     "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
     },
