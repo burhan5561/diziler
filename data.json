@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-25",
- "guncellendi": "2026-11-25 17:05",
+ "tarih": "2026-11-26",
+ "guncellendi": "2026-11-26 01:02",
  "kanallar": [
   {
    "id": "kanald",
@@ -63,6 +63,12 @@
    "hata": null,
    "program": [
     {
+     "saat": "06:00",
+     "baslik": "Hercai",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "08:00",
      "baslik": "Kahvaltı Haberleri",
      "durum": null,
@@ -83,13 +89,13 @@
     {
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
-     "durum": null,
+     "durum": "tekrar",
      "bolum": null
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -100,21 +106,21 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Var Mısın Yok Musun",
-     "durum": "tahmin",
-     "bolum": null
+     "baslik": "Güneşin Doğduğu Yer",
+     "durum": "yeni",
+     "bolum": 10
     },
     {
-     "saat": "23:20",
-     "baslik": "Aşk Tesadüfleri Sever / Yerli Sinema",
+     "saat": "00:20",
+     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:40",
-     "baslik": "Var Mısın Yok Musun",
+     "saat": "01:20",
+     "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 22
     },
     {
      "saat": "04:00",
@@ -163,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -176,29 +182,23 @@
     {
      "saat": "20:00",
      "baslik": "Yerli Dizi",
-     "durum": "tekrar",
+     "durum": "yeni",
      "bolum": null
     },
     {
-     "saat": "23:00",
+     "saat": "00:15",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "01:30",
+     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:30",
-     "baslik": "Yerli Dizi",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:30",
+     "saat": "05:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -318,7 +318,7 @@
      "bolum": null
     },
     {
-     "saat": "13:55",
+     "saat": "13:40",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -343,24 +343,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Taşacak Bu Deniz",
+     "baslik": "Maç Önü",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Teşkilat",
+     "saat": "20:45",
+     "baslik": "Beşiktaş - Hapoel Beerşeba | UEFA Avrupa Ligi Grup Maçları",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "23:00",
+     "baslik": "ÇSKA Sofya - Trabzonspor | UEFA Konferans Ligi Grup Maçları",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "01:00",
+     "baslik": "Gönül Dağı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "02:20",
-     "baslik": "Seksenler",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "02:45",
+     "saat": "03:30",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -443,7 +449,7 @@
     {
      "saat": "03:30",
      "baslik": "05.30",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
