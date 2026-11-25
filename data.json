@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-25",
- "guncellendi": "2026-11-25 01:50",
+ "guncellendi": "2026-11-25 17:05",
  "kanallar": [
   {
    "id": "kanald",
@@ -89,7 +89,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -163,7 +163,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -175,30 +175,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:00",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "23:00",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "01:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "03:30",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:30",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
@@ -318,7 +318,7 @@
      "bolum": null
     },
     {
-     "saat": "14:25",
+     "saat": "13:55",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
@@ -343,24 +343,24 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Evlilik Güzeldir",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "23:00",
-     "baslik": "Shaktar Donetsk - Fenerbahçe | UEFA Şampiyonlar Ligi Grup Maçları",
+     "baslik": "Taşacak Bu Deniz",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:15",
-     "baslik": "Gönül Dağı",
+     "saat": "00:15",
+     "baslik": "Teşkilat",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "03:45",
+     "saat": "02:20",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "02:45",
      "baslik": "Masumlar Apartmanı",
      "durum": "tekrar",
      "bolum": null
