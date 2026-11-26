@@ -1,6 +1,6 @@
 {
- "tarih": "2026-11-26",
- "guncellendi": "2026-11-26 16:42",
+ "tarih": "2026-11-27",
+ "guncellendi": "2026-11-27 01:00",
  "kanallar": [
   {
    "id": "kanald",
@@ -63,14 +63,14 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:00",
-     "baslik": "Hercai",
+     "saat": "07:00",
+     "baslik": "Kahvaltı Haberleri",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "08:00",
-     "baslik": "Kahvaltı Haberleri",
+     "saat": "08:30",
+     "baslik": "Nihat Hatipoğlu Sorularınızı Cevaplıyor",
      "durum": null,
      "bolum": null
     },
@@ -90,12 +90,12 @@
      "saat": "14:00",
      "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": null
+     "bolum": 10
     },
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": "canli",
+     "durum": null,
      "bolum": null
     },
     {
@@ -106,21 +106,21 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Güneşin Doğduğu Yer",
-     "durum": "tahmin",
-     "bolum": 10
-    },
-    {
-     "saat": "00:20",
-     "baslik": "Nihat Hatipoğlu ile Dosta Doğru",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:20",
      "baslik": "Altı Üstü İstanbul",
      "durum": "tekrar",
      "bolum": 22
+    },
+    {
+     "saat": "23:10",
+     "baslik": "Efsanenin Yükselişi / Yabancı Sinema",
+     "durum": "tahmin",
+     "bolum": null
+    },
+    {
+     "saat": "01:50",
+     "baslik": "Efsanenin Yükselişi / Yabancı Sinema",
+     "durum": "tekrar",
+     "bolum": null
     },
     {
      "saat": "04:00",
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Yayında",
+     "baslik": "Güncel",
      "durum": "canli",
      "bolum": null
     },
@@ -181,13 +181,19 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi",
-     "durum": "yeni",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Yerli Dizi",
+     "saat": "22:30",
+     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "00:30",
+     "baslik": "Yerli Dizi Tekrar / Sinema",
      "durum": "tekrar",
      "bolum": null
     },
@@ -294,38 +300,38 @@
    "hata": null,
    "program": [
     {
-     "saat": "06:20",
-     "baslik": "Yedi Güzel Adam",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "08:35",
-     "baslik": "Kod Adı Kırlangıç",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "10:00",
-     "baslik": "Hayallerinin Peşinde",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "11:30",
-     "baslik": "Teşkilat",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "14:30",
-     "baslik": "Evlilik Güzeldir",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "17:50",
+     "saat": "06:30",
      "baslik": "Turgay Başyayla İle Lezzetli Tavsiye",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "07:30",
+     "baslik": "Kalk Gidelim",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "10:30",
+     "baslik": "Alişan İle Hayata Gülümse",
+     "durum": null,
+     "bolum": null
+    },
+    {
+     "saat": "13:15",
+     "baslik": "Seksenler",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "14:05",
+     "baslik": "Masumlar Apartmanı",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "17:30",
+     "baslik": "Lingo Türkiye",
      "durum": null,
      "bolum": null
     },
@@ -336,49 +342,43 @@
      "bolum": null
     },
     {
+     "saat": "19:55",
+     "baslik": "İddiaların Aksine",
+     "durum": null,
+     "bolum": null
+    },
+    {
      "saat": "20:00",
-     "baslik": "Gönül Dağı",
+     "baslik": "Maç Önü",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "00:15",
-     "baslik": "Pelin Çift İle Gündem Ötesi",
+     "saat": "20:45",
+     "baslik": "Galatasaray - Aston Villa | UEFA Şampiyonlar Ligi Grup Maçları",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "01:30",
-     "baslik": "Pelin Çift İle Gündem Ötesi Artı",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "01:45",
-     "baslik": "Büyük Yolculuk | Yabancı Sinema",
-     "durum": null,
-     "bolum": null
-    },
-    {
-     "saat": "03:10",
-     "baslik": "Teşkilat",
+     "saat": "23:00",
+     "baslik": "Mehmed: Fetihler Sultanı",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:13",
+     "saat": "01:40",
+     "baslik": "Gönül Dağı",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:43",
      "baslik": "İstiklal Marşı",
      "durum": null,
      "bolum": null
     },
     {
-     "saat": "05:15",
-     "baslik": "Lingo Türkiye",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "05:15",
+     "saat": "05:45",
      "baslik": "Hayallerinin Peşinde",
      "durum": "tekrar",
      "bolum": null
