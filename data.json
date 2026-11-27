@@ -1,6 +1,6 @@
 {
  "tarih": "2026-11-27",
- "guncellendi": "2026-11-27 01:00",
+ "guncellendi": "2026-11-27 16:40",
  "kanallar": [
   {
    "id": "kanald",
@@ -95,7 +95,7 @@
     {
      "saat": "16:00",
      "baslik": "Esra Erol'da",
-     "durum": null,
+     "durum": "canli",
      "bolum": null
     },
     {
@@ -106,9 +106,9 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Altı Üstü İstanbul",
+     "baslik": "Güneşin Doğduğu Yer",
      "durum": "tekrar",
-     "bolum": 22
+     "bolum": 10
     },
     {
      "saat": "23:10",
@@ -169,7 +169,7 @@
     },
     {
      "saat": "15:00",
-     "baslik": "Güncel",
+     "baslik": "Yayında",
      "durum": "canli",
      "bolum": null
     },
@@ -181,30 +181,30 @@
     },
     {
      "saat": "20:00",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
-     "durum": "tekrar",
+     "baslik": "Yabancı Film",
+     "durum": "tahmin",
      "bolum": null
     },
     {
      "saat": "22:30",
-     "baslik": "Yerli Dizi Tekrarı / Sinema",
+     "baslik": "Yabancı Film",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "00:30",
-     "baslik": "Yerli Dizi Tekrar / Sinema",
-     "durum": "tekrar",
-     "bolum": null
-    },
-    {
-     "saat": "03:00",
+     "saat": "00:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
     },
     {
-     "saat": "05:00",
+     "saat": "03:15",
+     "baslik": "Yerli Dizi",
+     "durum": "tekrar",
+     "bolum": null
+    },
+    {
+     "saat": "05:45",
      "baslik": "Yerli Dizi",
      "durum": "tekrar",
      "bolum": null
